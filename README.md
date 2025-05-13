@@ -1,6 +1,4 @@
-# James Pether Sörling
-
-## Security & Open Source Expert | Cloud Security Specialist | Information Security Professional
+## Security & Open Source Expert | Cloud Specialist | Information Security Professional
 
 <div align="center">
   <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
@@ -33,14 +31,18 @@ I develop advanced open source tools focused on:
         <a href="https://github.com/Hack23/cia-compliance-manager"><img src="https://hack23.github.io/cia-compliance-manager/icon-192.png" width="100" alt="CIA Compliance Manager Logo"/></a>
         <p><i>Security assessment platform for the CIA triad with compliance mapping to regulatory frameworks</i></p>
         <div>
-          <a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/ARCHITECTURE.md">📐 Architecture</a> |
           <a href="https://hack23.com/cia-compliance-manager-features.html">✨ Features</a> |
-          <a href="https://hack23.github.io/cia-compliance-manager/">🚀 Live Demo</a>
+          <a href="https://hack23.github.io/cia-compliance-manager/">🚀 Live Demo</a> |
+          <a href="https://hack23.com/cia-compliance-manager-docs.html">📚 Docs</a>
         </div>
-        <a href="https://github.com/Hack23/cia-compliance-manager"><img src="https://img.shields.io/github/license/Hack23/cia-compliance-manager.svg" alt="License"></a>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/10365"><img src="https://bestpractices.coreinfrastructure.org/projects/10365/badge" alt="CII Best Practices"></a>
-        <a href="https://github.com/Hack23/cia-compliance-manager/attestations"><img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3"></a>
       </div>
+      <h4>Architecture Documentation</h4>
+      <ul>
+        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/ARCHITECTURE.md">🏛️ System Architecture</a></li>
+        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_ARCHITECTURE.md">🔮 Future Architecture Vision</a></li>
+        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/STATEDIAGRAM.md">🔄 Security State Diagrams</a></li>
+        <li><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FLOWCHART.md">📊 Process Flowcharts</a></li>
+      </ul>
     </td>
     <td width="50%">
       <h3 align="center">🔍 Citizen Intelligence Agency</h3>
@@ -48,14 +50,18 @@ I develop advanced open source tools focused on:
         <a href="https://github.com/Hack23/cia"><img src="https://hack23.github.io/cia/images/logo.png" width="100" alt="CIA Logo"/></a>
         <p><i>Political transparency platform monitoring Swedish political activity with data-driven insights</i></p>
         <div>
-          <a href="https://github.com/Hack23/cia/blob/master/ARCHITECTURE.md">📐 Architecture</a> |
           <a href="https://hack23.com/cia-features.html">✨ Features</a> |
-          <a href="https://github.com/Hack23/cia/blob/master/SECURITY_ARCHITECTURE.md">🔒 Security</a>
+          <a href="https://hack23.com/cia-docs.html">📚 Documentation</a> |
+          <a href="https://github.com/Hack23/cia">💻 Source Code</a>
         </div>
-        <a href="https://github.com/Hack23/cia"><img src="https://img.shields.io/github/license/Hack23/cia.svg" alt="License"></a>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/770"><img src="https://bestpractices.coreinfrastructure.org/projects/770/badge" alt="CII Best Practices"></a>
-        <a href="https://slsa.dev/spec/v1.0/levels"><img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3"></a>
       </div>
+      <h4>Architecture Documentation</h4>
+      <ul>
+        <li><a href="https://github.com/Hack23/cia/blob/master/ARCHITECTURE.md">🏛️ System Architecture</a></li>
+        <li><a href="https://github.com/Hack23/cia/blob/master/SECURITY_ARCHITECTURE.md">🔒 Security Architecture</a></li>
+        <li><a href="https://github.com/Hack23/cia/blob/master/DATA_MODEL.md">💾 Data Model</a></li>
+        <li><a href="https://github.com/Hack23/cia/blob/master/FUTURE_ARCHITECTURE.md">🔮 Future Architecture Vision</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -65,11 +71,9 @@ I develop advanced open source tools focused on:
         <a href="https://github.com/Hack23/lambda-in-private-vpc"><img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="120" alt="AWS Lambda"/></a>
         <p><i>Multi-region active/active site leveraging Resilience Hub policy compliance and runbooks</i></p>
         <div>
-          <a href="https://github.com/Hack23/lambda-in-private-vpc/blob/master/README.md">📑 Documentation</a> |
-          <a href="https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/main.yml">🔄 CI/CD</a>
+          <a href="https://github.com/Hack23/lambda-in-private-vpc">📂 Repository</a> |
+          <a href="https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/main.yml">🔄 CI/CD Pipeline</a>
         </div>
-        <a href="https://github.com/Hack23/lambda-in-private-vpc"><img src="https://img.shields.io/github/license/Hack23/lambda-in-private-vpc.svg" alt="License"></a>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/lambda-in-private-vpc"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/lambda-in-private-vpc/badge" alt="OpenSSF Scorecard"></a>
       </div>
     </td>
     <td width="50%">
@@ -78,11 +82,9 @@ I develop advanced open source tools focused on:
         <a href="https://github.com/Hack23/sonar-cloudformation-plugin"><img src="https://img.shields.io/badge/SonarQube-Plugin-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" width="160" alt="SonarQube Plugin"/></a>
         <p><i>SonarQube plugin for analyzing AWS CloudFormation templates with security best practices</i></p>
         <div>
-          <a href="https://github.com/Hack23/sonar-cloudformation-plugin/blob/master/README.md">📑 Documentation</a> |
-          <a href="http://mvnrepository.com/artifact/com.hack23.sonar/sonar-cloudformation-plugin">📦 Maven</a>
+          <a href="https://github.com/Hack23/sonar-cloudformation-plugin">📂 Repository</a> |
+          <a href="http://mvnrepository.com/artifact/com.hack23.sonar/sonar-cloudformation-plugin">📦 Maven Central</a>
         </div>
-        <a href="https://github.com/Hack23/sonar-cloudformation-plugin"><img src="https://img.shields.io/github/license/Hack23/sonar-cloudformation-plugin.svg" alt="License"></a>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/4545"><img src="https://bestpractices.coreinfrastructure.org/projects/4545/badge" alt="CII Best Practices"></a>
       </div>
     </td>
   </tr>
@@ -90,37 +92,107 @@ I develop advanced open source tools focused on:
 
 ---
 
-### Architecture & Documentation
+### Skills & Expertise Map
 
 <div align="center">
   
 ```mermaid
-flowchart TD
-    subgraph "Security and Compliance Focus"
-        CIA["CIA Compliance Manager<br/>(Security Assessment)"]
-        CIT["Citizen Intelligence Agency<br/>(Political Transparency)"]
-        LVP["Lambda in Private VPC<br/>(AWS Architecture)"]
-        SCP["Sonar CloudFormation Plugin<br/>(IaC Security Analysis)"]
-    end
-    
-    CIA --> |"Architecture"| ARCH_CIA["docs/architecture/ARCHITECTURE.md"]
-    CIA --> |"Future Vision"| FUTURE_CIA["docs/architecture/FUTURE_ARCHITECTURE.md"]
-    CIT --> |"Architecture"| ARCH_CIT["ARCHITECTURE.md"]
-    CIT --> |"Security Architecture"| SEC_CIT["SECURITY_ARCHITECTURE.md"]
-    CIT --> |"Future Vision"| FUTURE_CIT["FUTURE_ARCHITECTURE.md"]
-    
-    style CIA fill:#8e44ad,color:white
-    style CIT fill:#27ae60,color:white
-    style LVP fill:#2980b9,color:white
-    style SCP fill:#e67e22,color:white
-    style ARCH_CIA fill:#c39bd3,color:black
-    style FUTURE_CIA fill:#c39bd3,color:black
-    style ARCH_CIT fill:#7dcea0,color:black
-    style SEC_CIT fill:#7dcea0,color:black
-    style FUTURE_CIT fill:#7dcea0,color:black
+mindmap
+  root((James Pether Sörling))
+    Security Architecture
+      CIA Triad Implementation
+        Confidentiality Controls
+        Integrity Verification
+        Availability Design
+      Security Assessment
+      Compliance Frameworks
+        ISO 27001
+        NIST 800-53
+        GDPR
+    Cloud & AWS
+      Multi-Region Architectures
+      Lambda Functions
+      CloudFormation
+      Resilience Engineering
+      VPC Security
+    Software Engineering
+      Java/Spring
+      TypeScript/React
+      Infrastructure as Code
+      PostgreSQL
+      CI/CD Pipelines
+    Open Source
+      Project Leadership
+      Community Building
+      Security Plugins
+      Code Quality Tools
+    Political Transparency
+      Data Analytics
+      Visualization
+      Swedish Government Systems
+      Public Accountability
 ```
 
 </div>
+
+### Architecture & Documentation Links
+
+<details>
+<summary>🔐 CIA Compliance Manager Documentation</summary>
+
+#### Core Architecture
+- [🏛️ System Architecture](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/ARCHITECTURE.md)
+- [🔄 State Diagrams](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/STATEDIAGRAM.md)
+- [📊 Process Flowcharts](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FLOWCHART.md)
+- [🧠 System Mindmaps](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/MINDMAP.md)
+
+#### Strategic Documentation
+- [💼 SWOT Analysis](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/SWOT.md)
+- [🔧 CI/CD Workflows](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/WORKFLOWS.md)
+
+#### Future Vision
+- [🔮 Future Architecture](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_ARCHITECTURE.md)
+- [🔮 Future State Diagrams](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_STATEDIAGRAM.md)
+- [🔮 Future Flowcharts](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_FLOWCHART.md)
+- [🔮 Future Mindmaps](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_MINDMAP.md)
+- [🔮 Future SWOT Analysis](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_SWOT.md)
+- [🔮 Future CI/CD Workflows](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_WORKFLOWS.md)
+- [🔮 Future Data Model](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_DATA_MODEL.md)
+
+#### Testing Architecture
+- [✅ Unit Test Plan](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/UnitTestPlan.md)
+- [✅ E2E Test Plan](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/E2ETestPlan.md)
+- [⚡ Performance Testing Framework](https://github.com/Hack23/cia-compliance-manager/blob/main/docs/performance-testing.md)
+</details>
+
+<details>
+<summary>🔍 Citizen Intelligence Agency Documentation</summary>
+
+#### Core Architecture
+- [🏛️ System Architecture](https://github.com/Hack23/cia/blob/master/ARCHITECTURE.md)
+- [🔒 Security Architecture](https://github.com/Hack23/cia/blob/master/SECURITY_ARCHITECTURE.md)
+- [💾 Data Model](https://github.com/Hack23/cia/blob/master/DATA_MODEL.md)
+- [🔄 State Diagrams](https://github.com/Hack23/cia/blob/master/STATEDIAGRAM.md)
+- [📊 Process Flowcharts](https://github.com/Hack23/cia/blob/master/FLOWCHART.md)
+- [🧠 System Mindmaps](https://github.com/Hack23/cia/blob/master/MINDMAP.md)
+
+#### Strategic Documentation
+- [💼 SWOT Analysis](https://github.com/Hack23/cia/blob/master/SWOT.md)
+- [🔧 CI/CD Workflows](https://github.com/Hack23/cia/blob/master/WORKFLOWS.md)
+- [💰 Financial Security Plan](https://github.com/Hack23/cia/blob/master/FinancialSecurityPlan.md)
+- [📅 End-of-Life Strategy](https://github.com/Hack23/cia/blob/master/End-of-Life-Strategy.md)
+
+#### Future Vision
+- [🔮 Future Architecture](https://github.com/Hack23/cia/blob/master/FUTURE_ARCHITECTURE.md)
+- [🔮 Future Data Model](https://github.com/Hack23/cia/blob/master/FUTURE_DATA_MODEL.md)
+- [🔮 Future State Diagrams](https://github.com/Hack23/cia/blob/master/FUTURE_STATEDIAGRAM.md)
+- [🔮 Future Flowcharts](https://github.com/Hack23/cia/blob/master/FUTURE_FLOWCHART.md)
+- [🔮 Future Mindmaps](https://github.com/Hack23/cia/blob/master/FUTURE_MINDMAP.md)
+- [🔮 Future SWOT Analysis](https://github.com/Hack23/cia/blob/master/FUTURE_SWOT.md)
+- [🔮 Future CI/CD Workflows](https://github.com/Hack23/cia/blob/master/FUTURE_WORKFLOWS.md)
+</details>
+
+---
 
 ### Project Badges & Status
 
@@ -186,15 +258,6 @@ flowchart TD
 - Developer of [Sonar-CloudFormation-Plugin](https://github.com/Hack23/sonar-cloudformation-plugin)
 - Featured in Computer Sweden and Riksdag och Departement for political transparency work
 - Mentioned in National Democratic Institute survey on parliamentary monitoring organizations
-
----
-
-### GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pethers&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pethers&theme=dark&hide_border=true" alt="GitHub Streak" height="180"/>
-</div>
 
 ---
 
