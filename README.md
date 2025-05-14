@@ -389,6 +389,7 @@ timeline
 - Operated Equal Rites BBS in the 1990s, part of Fidonet (Node 2:203/454)
 - [![committers.top badge](https://user-badge.committers.top/sweden_private/pethers.svg)](https://user-badge.committers.top/sweden_private/pethers)
 
+![GitHub Org's stars](https://img.shields.io/github/stars/:Hack23)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pethers&show_icons=true&theme=radical)
 ---
