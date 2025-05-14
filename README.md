@@ -11,7 +11,8 @@
 
 ### About Me
 
-Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance. Currently serving as Application Security Officer at Stena Group IT, with prior roles including Information Security Officer at Polestar and Senior Security Architect at WirelessCar. Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions.
+Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance. Currently serving as Application Security Officer at Stena Group IT, with prior roles including Information Security Officer at Polestar and Senior Security Architect at WirelessCar. Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. [![committers.top badge](https://user-badge.committers.top/sweden_private/pethers.svg)](https://user-badge.committers.top/sweden_private/pethers)
+
 
 I develop advanced open source tools focused on:
 - 🔐 **CIA Triad** (Confidentiality, Integrity, Availability)
