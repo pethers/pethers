@@ -11,7 +11,7 @@
 
 ### About Me
 
-Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance. Currently serving as Application Security Officer at Stena Group IT, with prior roles including Information Security Officer at Polestar and Senior Security Architect at WirelessCar. Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. [![committers.top badge](https://user-badge.committers.top/sweden_private/pethers.svg)](https://user-badge.committers.top/sweden_private/pethers)
+Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance. Currently serving as Application Security Officer at Stena Group IT, with prior roles including Information Security Officer at Polestar and Senior Security Architect at WirelessCar. Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. 
 
 
 I develop advanced open source tools focused on:
@@ -387,6 +387,7 @@ timeline
 - Featured in Computer Sweden and Riksdag och Departement for political transparency work
 - Mentioned in National Democratic Institute survey on parliamentary monitoring organizations
 - Operated Equal Rites BBS in the 1990s, part of Fidonet (Node 2:203/454)
+- [![committers.top badge](https://user-badge.committers.top/sweden_private/pethers.svg)](https://user-badge.committers.top/sweden_private/pethers)
 
 ---
 
