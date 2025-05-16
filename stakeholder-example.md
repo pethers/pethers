@@ -237,7 +237,6 @@ quadrantChart
 
 *Note: This stakeholder map represents a snapshot of organizational dynamics as of 2025-05-16 and may need periodic reassessment as roles and relationships evolve.*
 
-```markdown
 # Cybersecurity Stakeholder SWOT Analysis
 **CONFIDENTIAL: Executive Management Brief**
 
