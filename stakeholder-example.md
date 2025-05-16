@@ -1,4 +1,4 @@
-# IT Software Organization Stakeholder Map
+# IT Software Organization Stakeholder Map with Cybersecurity Integration
 
 ## Interactive Visualization
 
@@ -6,19 +6,19 @@
 %%{init: {
   "theme": "dark",
   "themeVariables": {
-    "quadrant1Fill": "#1a2f7b",
-    "quadrant2Fill": "#0f4c3a",
-    "quadrant3Fill": "#4d2e00", 
-    "quadrant4Fill": "#5c1021",
-    "quadrantTitleFill": "#ffffff",
+    "quadrant1Fill": "#0c1e3e",
+    "quadrant2Fill": "#0a3b2e",
+    "quadrant3Fill": "#301b00", 
+    "quadrant4Fill": "#3f0b1c",
+    "quadrantTitleFill": "#00ffff",
     "quadrantPointFill": "#00ffff",
     "quadrantPointTextFill": "#ffffff",
     "quadrantXAxisTextFill": "#00ffff",
     "quadrantYAxisTextFill": "#00ffff"
   },
   "quadrantChart": {
-    "chartWidth": 650,
-    "chartHeight": 650,
+    "chartWidth": 700,
+    "chartHeight": 700,
     "pointLabelFontSize": 14,
     "titleFontSize": 24,
     "quadrantLabelFontSize": 18,
@@ -27,84 +27,115 @@
   }
 }}%%
 quadrantChart
-    title IT SOFTWARE ORGANIZATION - STAKEHOLDER MAP
+    title 🔐 CYBERSECURITY-ENHANCED IT ORGANIZATION MAP 🔐
     x-axis Low Involvement --> High Involvement
     y-axis Low Influence --> High Influence
     quadrant-1 KEEP SATISFIED
     quadrant-2 KEY PLAYERS
     quadrant-3 MINIMAL EFFORT
     quadrant-4 KEEP INFORMED
-    Developers: [0.60, 0.40] radius: 22, color: #00ffcc, stroke-color: #00ccaa, stroke-width: 2px
-    QA Engineers: [0.50, 0.30] radius: 14, color: #ff9500, stroke-color: #cc7700, stroke-width: 2px
-    Managers: [0.65, 0.85] radius: 11, color: #ff0088, stroke-color: #cc006e, stroke-width: 2px
-    Team Leads: [0.75, 0.65] radius: 11, color: #ffcc00, stroke-color: #cc9500, stroke-width: 2px
+    Developers: [0.60, 0.42] radius: 22, color: #00ccff, stroke-color: #0099cc, stroke-width: 2px
+    QA Engineers: [0.50, 0.35] radius: 14, color: #ff9500, stroke-color: #cc7700, stroke-width: 2px
+    Managers: [0.65, 0.82] radius: 11, color: #ff0088, stroke-color: #cc006e, stroke-width: 2px
+    Team Leads: [0.72, 0.60] radius: 11, color: #ffcc00, stroke-color: #cc9500, stroke-width: 2px
     UI Designers: [0.70, 0.35] radius: 10, color: #00aaff, stroke-color: #0088cc, stroke-width: 2px
-    DevOps: [0.85, 0.60] radius: 9, color: #aa00ff, stroke-color: #7700cc, stroke-width: 2px
+    DevOps: [0.83, 0.62] radius: 10, color: #aa00ff, stroke-color: #7700cc, stroke-width: 2px
     Architects: [0.82, 0.90] radius: 8, color: #00eeff, stroke-color: #00bfcc, stroke-width: 2px
-    Business Analysts: [0.73, 0.55] radius: 8, color: #88ff00, stroke-color: #66cc00, stroke-width: 2px
-    Product Owners: [0.90, 0.80] radius: 7, color: #ff5500, stroke-color: #cc4400, stroke-width: 2px
+    Business Analysts: [0.70, 0.55] radius: 8, color: #88ff00, stroke-color: #66cc00, stroke-width: 2px
+    Product Owners: [0.88, 0.78] radius: 7, color: #ff5500, stroke-color: #cc4400, stroke-width: 2px
     Support Staff: [0.40, 0.20] radius: 7, color: #aaaaff, stroke-color: #8888cc, stroke-width: 2px
-    Customers: [0.95, 0.95] radius: 13, color: #ff0000, stroke-color: #cc0000, stroke-width: 3px
-    Executive Team: [0.78, 0.95] radius: 10, color: #ffffff, stroke-color: #dddddd, stroke-width: 3px
-    Marketing: [0.90, 0.70] radius: 9, color: #ff00ff, stroke-color: #cc00cc, stroke-width: 2px
-    Sales: [0.87, 0.75] radius: 9, color: #44ff44, stroke-color: #33cc33, stroke-width: 2px
+    Customers: [0.92, 0.95] radius: 13, color: #ff0000, stroke-color: #cc0000, stroke-width: 3px
+    Executive Team: [0.75, 0.95] radius: 10, color: #ffffff, stroke-color: #dddddd, stroke-width: 3px
+    Marketing: [0.82, 0.70] radius: 9, color: #ff00ff, stroke-color: #cc00cc, stroke-width: 2px
+    Sales: [0.85, 0.74] radius: 9, color: #44ff44, stroke-color: #33cc33, stroke-width: 2px
+    CISO: [0.80, 0.92] radius: 9, color: #ff3333, stroke-color: #cc2222, stroke-width: 3px
+    Security Architects: [0.83, 0.85] radius: 7, color: #ff6666, stroke-color: #cc4444, stroke-width: 2px
+    Security Officers: [0.75, 0.55] radius: 8, color: #ff9999, stroke-color: #cc7777, stroke-width: 2px
+    Compliance Officers: [0.30, 0.80] radius: 8, color: #ffaa44, stroke-color: #cc8833, stroke-width: 2px
+    Regulators: [0.15, 0.90] radius: 10, color: #ff7700, stroke-color: #cc5500, stroke-width: 3px
+    Legal Team: [0.35, 0.85] radius: 7, color: #dd88ff, stroke-color: #aa66cc, stroke-width: 2px
+    Vendor Security: [0.25, 0.65] radius: 6, color: #ff5577, stroke-color: #cc3355, stroke-width: 2px
+    Audit Team: [0.20, 0.75] radius: 6, color: #ffdd44, stroke-color: #ccbb33, stroke-width: 2px
 ```
 
 ## Stakeholder Breakdown
 
-### Technical Roles (194 total staff)
+### Technical Roles (212-214 total staff)
 
-| Role | Headcount | % of Org | Visual Weight |
-|------|-----------|----------|--------------|
-| Developers | 120 | 60% | ⬤⬤⬤⬤⬤⬤ |
-| QA Engineers | 35 | 17.5% | ⬤⬤ |
-| UI Designers | 15 | 7.5% | ⬤ |
-| DevOps | 10 | 5% | ▲ |
-| Architects | 8 | 4% | ▲ |
-| Support Staff | 6 | 3% | ● |
+| Role | Headcount | % of Org | Visual Weight | Security Impact |
+|------|-----------|----------|--------------|-----------------|
+| Developers | 120 | ~56% | ⬤⬤⬤⬤⬤⬤ | 🔒🔒 |
+| QA Engineers | 35 | ~16% | ⬤⬤ | 🔒🔒🔒 |
+| UI Designers | 15 | ~7% | ⬤ | 🔒 |
+| DevOps | 10 | ~5% | ▲ | 🔒🔒🔒🔒 |
+| Architects | 8 | ~4% | ▲ | 🔒🔒🔒 |
+| Support Staff | 6 | ~3% | ● | 🔒🔒 |
+
+### Security Roles (13-16 total staff)
+
+| Role | Headcount | % of Org | Visual Weight | Critical Functions |
+|------|-----------|----------|--------------|-----------------|
+| CISO | 1 | ~0.5% | ● | 🛡️ Strategy, Governance, Executive Reporting |
+| Security Architects | 4-5 | ~2% | ▲ | 🛡️ Secure Design, Threat Modeling |
+| Security Officers/Analysts | 8-10 | ~4% | ⬤ | 🛡️ Implementation, Monitoring, Response |
 
 ### Leadership Roles
 
-| Role | Headcount | % of Org | Visual Weight |
-|------|-----------|----------|--------------|
-| Managers | 18 | 9% | ⬤ |
-| Team Leads | 18 | 9% | ⬤ |
-| Business Analysts | 8 | 4% | ▲ |
-| Product Owners | 6 | 3% | ● |
+| Role | Headcount | % of Org | Visual Weight | Security Responsibility |
+|------|-----------|----------|--------------|-----------------|
+| Managers | 18 | 8% | ⬤ | Resource allocation for security initiatives |
+| Team Leads | 18 | 8% | ⬤ | Security practice enforcement |
+| Business Analysts | 8 | 3.5% | ▲ | Security requirements integration |
+| Product Owners | 6 | 3% | ● | Security-feature prioritization |
 
 ### External Stakeholders
 
-| Role | Significance | Strategic Value |
-|------|-------------|----------------|
-| Customers | ★★★★★ | Ultimate value judges, highest influence |
-| Executive Team | ★★★★★ | Strategic direction and funding |
-| Marketing | ★★★★ | Product positioning and messaging |
-| Sales | ★★★★ | Revenue generation and market feedback |
+| Role | Significance | Strategic Value | Security Context |
+|------|-------------|----------------|------------------|
+| Customers | ★★★★★ | Ultimate value judges | Final arbiters of security-usability balance |
+| Executive Team | ★★★★★ | Strategic direction | Risk acceptance and security investment |
+| Marketing | ★★★★ | Product positioning | Security as competitive advantage |
+| Sales | ★★★★ | Revenue generation | Security requirements gathering |
+
+### External Security Stakeholders
+
+| Role | Influence | Involvement | Critical Functions |
+|------|-----------|-----------|-----------------|
+| Regulators | ★★★★★ | ★☆☆☆☆ | 🔍 Compliance requirements, audits |
+| Compliance Officers | ★★★★☆ | ★★☆☆☆ | 🔍 Standards enforcement |
+| Legal Team | ★★★★☆ | ★★☆☆☆ | 🔍 Legal implications of security incidents |
+| Vendor Security | ★★★☆☆ | ★★☆☆☆ | 🔍 Third-party security assessment |
+| Audit Team | ★★★☆☆ | ★★☆☆☆ | 🔍 Security controls verification |
 
 ## Stakeholder Strategy
 
 ### Key Players (Top Right)
-- **Customers:** Highest influence, critical to product success
-- **Executive Team:** Strategic direction and resource allocation
-- **Architects:** Technical vision and architectural governance
-- **Managers:** Operational authority and resource management
-- **Sales & Marketing:** Market interface and customer acquisition
-- **Product Owners:** Product direction and prioritization
+- **Customers:** Ultimate judges of security-functionality balance
+- **Executive Team:** Strategic direction and risk tolerance definition
+- **CISO:** Security strategy, risk management, compliance leadership
+- **Architects & Security Architects:** Technical and security vision integration
+- **Managers:** Resource allocation for security initiatives
+- **Product Owners:** Balancing security with features and time-to-market
+- **DevOps:** Secure deployment pipeline and infrastructure
+- **Sales & Marketing:** Security as a market differentiator
 
 ### Keep Satisfied (Top Left)
-- No current staff in this quadrant
-- Potential area for vendors, consultants, or contractors
+- **Regulators:** High influence through compliance requirements
+- **Compliance Officers:** Standards enforcement with veto power
+- **Legal Team:** Legal implications of security decisions
+- **Vendor Security:** Third-party risk management
+- **Audit Team:** Independent security assessment
 
 ### Keep Informed (Bottom Right)
-- **Developers:** Core workforce implementing solutions
-- **Team Leads:** Day-to-day implementation leadership
-- **UI Designers:** User experience and interface design
-- **DevOps:** Deployment pipeline and infrastructure
-- **Business Analysts:** Requirements gathering and documentation
+- **Developers:** Implementation with security awareness
+- **Team Leads:** Day-to-day security practice enforcement
+- **Security Officers:** Hands-on security implementation
+- **Business Analysts:** Security requirements integration
 
 ### Minimal Effort (Bottom Left)
-- **QA Engineers:** Quality verification processes
-- **Support Staff:** Maintenance and user assistance
+- **QA Engineers:** Security testing integration
+- **Support Staff:** Security incident identification
+- **UI Designers:** Secure design patterns
 
 ## Stakeholder Management Approach
 
@@ -112,26 +143,96 @@ quadrantChart
 
 1. **High-Priority Stakeholders (Key Players)**
    - Regular structured updates (weekly/biweekly)
-   - Direct involvement in decision-making processes
-   - Proactive engagement on strategic matters
+   - Direct involvement in security decision-making processes
+   - Proactive engagement on strategic security matters
+   - Security metric dashboards customized by role
 
 2. **Medium-Priority Stakeholders (Keep Informed)**
    - Regular status updates through established channels
-   - Involvement in relevant tactical decisions
-   - Clear communication of how their work impacts objectives
+   - Involvement in relevant tactical security decisions
+   - Clear communication of how their work impacts security objectives
 
 3. **Lower-Priority Stakeholders (Minimal Effort)**
-   - Standard communication via team leads
-   - Process-based engagement rather than custom approaches
-   - Efficient knowledge-sharing mechanisms
+   - Standard security communication via team leads
+   - Process-based security engagement rather than custom approaches
+   - Efficient security knowledge-sharing mechanisms
+
+4. **Regulatory Stakeholders (Keep Satisfied)**
+   - Proactive compliance reporting
+   - Early engagement on regulatory changes
+   - Structured audit preparation processes
+   - Clear escalation paths for compliance issues
+
+### Cybersecurity Integration Framework
+
+1. **Strategic Security Layer**
+   - Executive-level risk dashboards (for Key Players)
+   - Quarterly security posture updates
+   - Threat intelligence briefings
+   - Security budget allocation forums
+
+2. **Tactical Security Layer**
+   - Security Architecture Review Board
+   - Security Champions program in development teams
+   - DevSecOps workflow integration
+   - Vulnerability management process
+
+3. **Operational Security Layer**
+   - Secure coding standards and guidance
+   - Security testing in CI/CD pipeline
+   - Security incident response procedures
+   - Security awareness training
+
+4. **Compliance & Regulatory Layer**
+   - Regular compliance status reporting
+   - Proactive regulatory engagement plan
+   - Audit preparation framework
+   - Evidence collection automation
 
 ### Implementation Guidelines
 
-- **Communication Cadence:** Establish regular touchpoints with Key Players
-- **Decision Framework:** Create clear RACI matrix based on quadrant positioning
-- **Feedback Loops:** Design feedback mechanisms appropriate to stakeholder influence
-- **Resource Allocation:** Prioritize engagement resources based on quadrant position
+- **Communication Cadence:** Establish regular security touchpoints with Key Players
+- **Decision Framework:** Create clear security-focused RACI matrix based on quadrant positioning
+- **Feedback Loops:** Design security feedback mechanisms appropriate to stakeholder influence
+- **Resource Allocation:** Prioritize security engagement resources based on quadrant position
+- **Security Culture:** Foster security mindset appropriate to each stakeholder group
+- **Security Metrics:** Define and track KPIs that matter to each stakeholder group
+
+## Security Responsibility Matrix
+
+| Role | Prevention | Detection | Response | Governance |
+|------|-----------|-----------|----------|------------|
+| CISO | ★★★ | ★★★ | ★★★ | ★★★★★ |
+| Security Architects | ★★★★★ | ★★ | ★ | ★★★ |
+| Security Officers | ★★★ | ★★★★ | ★★★★ | ★★ |
+| Developers | ★★★★ | ★★ | ★ | ☆ |
+| DevOps | ★★★ | ★★★★ | ★★★ | ★★ |
+| QA Engineers | ★★ | ★★★★★ | ★ | ☆ |
+| Executives | ★ | ☆ | ★★ | ★★★★★ |
+| Regulators | ★★ | ☆ | ☆ | ★★★★★ |
+
+## Risk Management Approach by Stakeholder Group
+
+### Strategic Risk Owners (Executive Team, CISO)
+- Define organizational risk appetite
+- Approve major security investments
+- Accept residual risk
+
+### Tactical Risk Managers (Security Architects, Managers, Team Leads)
+- Implement risk mitigation strategies
+- Prioritize security activities
+- Escalate significant risks
+
+### Operational Risk Handlers (Developers, Security Officers, DevOps)
+- Day-to-day risk reduction activities
+- Security control implementation
+- Incident detection and response
+
+### Risk Verification (Compliance, Audit, Regulators)
+- Validate control effectiveness
+- Ensure regulatory compliance
+- Provide independent assessment
 
 ---
 
-*Note: This stakeholder map represents a snapshot of organizational dynamics and may need periodic reassessment as roles and relationships evolve.*
+*Note: This stakeholder map represents a snapshot of organizational dynamics as of 2025-05-16 and may need periodic reassessment as roles and relationships evolve.*
