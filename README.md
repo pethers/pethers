@@ -1,4 +1,4 @@
-# Security & Open Source Expert | Cloud Security Specialist | Information Security Professional
+# CEO/Founder Hack23 | Security & Open Source Expert | Cloud Security Specialist | Information Security Professional
 
 <div align="center">
   <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
@@ -42,7 +42,7 @@
 
 ### About Me
 
-Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance. Currently serving as Application Security Officer at Stena Group IT, with prior roles including Information Security Officer at Polestar and Senior Security Architect at WirelessCar. Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. 
+Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance. Currently CEO Hack23, with prior roles including Application Security Officer at Stena,Information Security Officer at Polestar and Senior Security Architect at WirelessCar. Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. 
 
 
 I develop advanced open source tools focused on:
