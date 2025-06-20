@@ -43,9 +43,9 @@
   </tr>
 </table>
 
-### About Me
+### CEO/Founder of Hack23
 
-CEO/Founder of Hack23, Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. 
+Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. 
 Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance.
 Prior roles including Application Security Officer at Stena,Information Security Officer at Polestar and Senior Security Architect at WirelessCar.
 
