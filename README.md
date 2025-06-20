@@ -42,8 +42,9 @@
 
 ### About Me
 
-Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance. Currently CEO Hack23, with prior roles including Application Security Officer at Stena,Information Security Officer at Polestar and Senior Security Architect at WirelessCar. Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. 
-
+CEO/Founder of Hack23, Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. 
+Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance.
+Prior roles including Application Security Officer at Stena,Information Security Officer at Polestar and Senior Security Architect at WirelessCar.
 
 I develop advanced open source tools focused on:
 - 🔐 **CIA Triad** (Confidentiality, Integrity, Availability)
