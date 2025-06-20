@@ -22,7 +22,10 @@
       </div>
     </td>
     <td>
-      <p><strong>Realistic 2D precision combat simulator</strong> inspired by traditional Korean martial arts, focusing on precise anatomical targeting, authentic combat techniques, and detailed physics-based interactions.</p>
+      <p><strong>Realistic 2D precision combat simulator</strong> inspired by traditional Korean martial arts, focusing on precise anatomical targeting, authentic combat techniques, and detailed physics-based interactions.🥋 Black Trigram (흑괘)
+어둠의 무예로 완벽한 일격을 추구하라
+"Master the dark arts through the pursuit of the perfect strike"
+      </p>
       <div>
         <a href="https://github.com/Hack23/blacktrigram/raw/master/LICENSE.md">
           <img src="https://img.shields.io/github/license/Hack23/blacktrigram.svg" alt="License">
