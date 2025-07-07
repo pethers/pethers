@@ -440,5 +440,5 @@ timeline
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=pethers&style=flat-square" alt="Profile Views"/>
-  ![](https://hit.yhype.me/github/profile?account_id=1726836)
 </div>
+![](https://hit.yhype.me/github/profile?account_id=1726836)
