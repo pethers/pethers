@@ -215,7 +215,7 @@ Three decades of hands-on experience in software development and security archit
     <td width="50%">
       <h3 align="center">🔍 Citizen Intelligence Agency</h3>
       <div align="center">
-        <a href="https://github.com/Hack23/cia"><img src="https://hack23.github.io/cia/images/logo.png" width="100" alt="CIA Logo"/></a>
+        <a href="https://github.com/Hack23/cia"><img src="https://cia.sourceforge.io/cia-logo.png" width="100" alt="CIA Logo"/></a>
         <p><i>Political transparency platform monitoring Swedish political activity with data-driven insights</i></p>
         <div>
           <a href="https://github.com/Hack23/cia">📂 Repository</a> |
