@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-jamessorling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Hack23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.openhub.net/accounts/pether"><img src="https://img.shields.io/badge/OpenHub-pether-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OpenHub"/></a>
-  [![committers.top badge](https://user-badge.committers.top/sweden/pethers.svg)](https://user-badge.committers.top/sweden/pethers)
 </div>
 
 ---
@@ -56,6 +55,7 @@ I develop advanced open source tools focused on:
 - 🔍 **Political Transparency**
 - ☁️ **Secure Cloud Architectures**
 
+[![committers.top badge](https://user-badge.committers.top/sweden/pethers.svg)](https://user-badge.committers.top/sweden/pethers)
 ![GitHub Org's stars](https://img.shields.io/github/stars/Hack23)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pethers&show_icons=true&theme=radical)
 ---
