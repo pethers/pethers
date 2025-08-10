@@ -21,7 +21,7 @@ I develop advanced open source tools focused on:
 - 🔍 **Political Transparency**
 - ☁️ **Secure Cloud Architectures**
 
-[![committers.top badge](https://user-badge.committers.top/sweden/pethers.svg?cache-control=no-cache)](https://user-badge.committers.top/sweden/pethers)
+[![committers.top badge](https://user-badge.committers.top/sweden/pethers.svg?version=latest&cache-control=no-cache)](https://user-badge.committers.top/sweden/pethers)
 ![GitHub Org's stars](https://img.shields.io/github/stars/Hack23)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pethers&show_icons=true&theme=radical)
 ---
