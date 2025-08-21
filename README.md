@@ -1,4 +1,4 @@
-# CEO/Founder Hack23 | Security & Open Source Expert | Cloud Security Specialist | Information Security Professional | [![committers.top badge](https://user-badge.committers.top/sweden/pethers.svg?version=latest&cache-control=no-cache)](https://user-badge.committers.top/sweden/pethers)
+# CEO/Founder Hack23 | Security & Open Source Expert | Cloud Security Specialist | Information Security Professional  
 
 <div align="center">
   <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
@@ -9,31 +9,11 @@
 
 ---
 
-### CEO/Founder of Hack23
+### CEO/Founder of Hack23 | [![committers.top badge](https://user-badge.committers.top/sweden/pethers.svg?version=latest&cache-control=no-cache)](https://user-badge.committers.top/sweden/pethers)
 
 Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. 
 Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance.
 Prior roles including Application Security Officer at Stena,Information Security Officer at Polestar and Senior Security Architect at WirelessCar.
-
-I develop advanced open source tools focused on:
-- 🔐 **CIA Triad** (Confidentiality, Integrity, Availability)
-- 📊 **Compliance Management**
-- 🔍 **Political Transparency**
-- ☁️ **Secure Cloud Architectures**
-
-[![committers.top badge](https://user-badge.committers.top/sweden/pethers.svg?version=latest&cache-control=no-cache)](https://user-badge.committers.top/sweden/pethers)
-![GitHub Org's stars](https://img.shields.io/github/stars/Hack23)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pethers&show_icons=true&theme=radical)
----
-
-### Professional Certifications
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CISSP-Certified-0056B3?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP"/>
-  <img src="https://img.shields.io/badge/CISM-Certified-006400?style=for-the-badge&logo=isaca&logoColor=white" alt="CISM"/>
-  <img src="https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Security"/>
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect"/>
-</div>
 
 ---
 
@@ -80,6 +60,16 @@ Our approach to cybersecurity consulting is built on a foundation of transparent
 
 ---
 
+### Professional Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CISSP-Certified-0056B3?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP"/>
+  <img src="https://img.shields.io/badge/CISM-Certified-006400?style=for-the-badge&logo=isaca&logoColor=white" alt="CISM"/>
+  <img src="https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Security"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect"/>
+</div>
+
+---
 
 
 # 🔥 Black Trigram (흑괘)
