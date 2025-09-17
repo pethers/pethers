@@ -444,70 +444,69 @@ Three decades of hands-on experience in software development and security archit
 <div align="center">
 
 ```mermaid
-%%{
-  init: {
-    'theme': 'dark',
-    'themeVariables': {
-      'primaryColor': '#314e6e',
-      'edgeLabelBackground':'#222',
-      'primaryTextColor': '#f8f8f8',
-      'lineColor': '#86b5d9'
-    }
+%%{init: {
+  "theme": "dark",
+  "themeVariables": {
+    "primaryColor": "#1976d2",
+    "secondaryColor": "#1565c0",
+    "tertiaryColor": "#4caf50",
+    "lineColor": "#ff9800",
+    "primaryTextColor": "#ffffff"
   }
-}%%
+}}%%
 mindmap
-  root((James Pether Sörling))
-    Information Security
-      Risk Assessment & Management
-      CISSP / CISM Certified
-      Security Architecture Design
-        Zero Trust
-        Defense-in-Depth
-      Compliance Frameworks
+  root)👨‍💼 James Pether Sörling(
+    (🔐 Information Security)
+      🛡️ Risk Assessment & Management
+      🎓 CISSP / CISM Certified
+      🏛️ Security Architecture Design
+        🔒 Zero Trust
+        🛡️ Defense-in-Depth
+      ⚙️ Compliance Frameworks
         ISO 27001
         NIST 800-53
         VDA-ISA
         CIS Controls
         GDPR
-      Security Operations
+      🚨 Security Operations
         Incident Response
-        Vulnerability Mgmt
+        Vulnerability Management
         Security Monitoring
-    Cloud Security
-      Multi-Cloud: AWS, Azure
-      Enterprise Architecture
+    (☁️ Cloud Security)
+      🌐 Multi-Cloud: AWS, Azure
+      🏗️ Enterprise Architecture
         High Availability
         Multi-Region
         Resilience
-      Infrastructure as Code
+      🛠️ Infrastructure as Code
         CloudFormation
         Terraform
-      Secure Cloud Services
-        AWS Security Hub
+      🔒 Secure Cloud Services
+        Security Hub
         GuardDuty
         KMS
         WAF
-    Leadership & Governance
-      Information Security Officer
-      Security Architect
-      Policy Development
-      IT Governance
-      Team Leadership
-      Open Source Program Office
-      AI Governance
-    Software Engineering
-      Secure Development (SSDLC)
-      Java / Spring / React
-      Automated Testing
-      CI/CD Pipelines
-      Code Quality
+    (🗂️ Leadership & Governance)
+      👨‍💼 Information Security Officer
+      🏛️ Security Architect
+      📝 Policy Development
+      ⚖️ IT Governance
+      👥 Team Leadership
+      🌐 Open Source Program Office
+      🤖 AI Governance
+    (💻 Software Engineering)
+      🛠️ Secure Development (SSDLC)
+      🌱 Java / Spring / React
+      ⚙️ Automated Testing
+      🔄 CI/CD Pipelines
+      📈 Code Quality
         SLSA Level 3
         SonarQube
-    Open Source Leadership
-      Project Maintainer
-      Contributor
-      Security Tooling
-      Code Review
+    (🌍 Open Source Leadership)
+      👨‍🔬 Project Maintainer
+      🤝 Community Contributor
+      🛡️ Security Tooling
+      👀 Code Review
 ```
 
 </div>
