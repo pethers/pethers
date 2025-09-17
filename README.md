@@ -444,7 +444,6 @@ Three decades of hands-on experience in software development and security archit
 <div align="center">
 
 ```mermaid
-%%{init: {"theme":"dark"}}%%
 mindmap
   root)👨‍💼 James Pether Sörling(
     (🔐 Information Security):::infosec
@@ -498,12 +497,6 @@ mindmap
       🤝 Community Contributor
       🛡️ Security Tooling
       👀 Code Review
-
-classDef infosec fill:#D32F2F,color:#fff,stroke:#B71C1C;
-classDef cloud fill:#1976d2,color:#fff,stroke:#1565c0;
-classDef governance fill:#FFC107,color:#222,stroke:#FFA000;
-classDef engineering fill:#4CAF50,color:#fff,stroke:#2E7D32;
-classDef opensource fill:#9E9E9E,color:#222,stroke:#757575;
 ```
 
 </div>
