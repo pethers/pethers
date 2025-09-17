@@ -501,6 +501,79 @@ mindmap
 
 </div>
 
+```mermaid
+mindmap
+  root((👨‍💼 James Pether Sörling))
+    🔐 Information & Security Leadership
+      👨‍💼 CISO / ISO Roles
+      🛡️ Security Architecture
+      🧩 CIA Triad Implementation
+      🛠️ Policy Development & Governance
+      📊 Risk Management
+      🔍 Audit & Compliance Oversight
+      🤖 AI Governance
+      🌐 Open Source Program Office
+    🏛️ Frameworks & Compliance
+      📄 ISO 27001
+      📄 NIST 800-53
+      📄 VDA-ISA
+      📄 CIS Controls
+      🏷️ Data Protection / GDPR
+      📋 ISMS Implementation
+      🧪 Continuous Improvement
+    ☁️ Cloud & Platform Security
+      🌐 Multi-Cloud (AWS / Azure)
+      🏗️ Enterprise & Reference Architectures
+        🌍 Multi-Region Design
+        🔁 Resilience & Failover
+        ♻️ High Availability Patterns
+      🔒 Secure Cloud Services
+        Security Hub
+        GuardDuty
+        KMS
+        WAF
+      🧱 Network & VPC Security
+      🔑 IAM / Least Privilege
+    🛠️ Infrastructure as Code
+      🧾 CloudFormation
+      🛠️ Terraform
+      🔄 GitOps / Pipelines
+      🔍 Template Scanning
+      📦 Supply Chain (SLSA Level 3)
+    💻 Software Engineering
+      ☕ Java / Spring
+      ⚛️ React / TypeScript
+      🐘 PostgreSQL
+      🔄 CI/CD Automation
+      🧪 Automated Testing
+      🧵 Secure SDLC (SSDLC)
+      📈 Code Quality (SonarQube)
+    🔬 Security Operations & Assurance
+      🚨 Incident Response
+      🕵️ Vulnerability Management
+      📈 Security Monitoring
+      🧪 Threat Modeling
+      📜 Logging & SIEM Use
+    🌍 Open Source Leadership
+      📋 CIA Compliance Manager
+      🏛️ Citizen Intelligence Agency
+      🧩 Sonar-CloudFormation-Plugin
+      🔧 cfn-nag Contributions
+      🤝 Community Engagement
+      👀 Code Review / Security Tooling
+    🏆 Certifications & Recognition
+      🎓 CISSP
+      🎓 CISM
+      🥇 AWS Security Specialty
+      🥇 AWS Solutions Architect Professional
+      🛡️ SLSA Level 3 Attestations
+    🚀 Strategic Impact
+      🔓 Transparency Advocacy
+      🧭 Security-by-Design Enablement
+      🧠 Knowledge Sharing / Speaking
+      📢 Public Policy & Civic Tech
+```
+
 ### Technology & Skills
 
 <div align="center">
