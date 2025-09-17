@@ -446,7 +446,7 @@ Three decades of hands-on experience in software development and security archit
 ```mermaid
 mindmap
   root)👨‍💼 James Pether Sörling(
-    (🔐 Information Security):::infosec
+    (🔐 Information Security)
       🛡️ Risk Assessment & Management
       🎓 CISSP / CISM Certified
       🏛️ Security Architecture Design
