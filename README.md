@@ -446,77 +446,67 @@ Three decades of hands-on experience in software development and security archit
 ```mermaid
 %%{
   init: {
-    'theme': 'base',
+    'theme': 'dark',
     'themeVariables': {
-      'primaryColor': '#a0c8e0',
-      'primaryTextColor': '#1a1a1a',
-      'primaryBorderColor': '#86b5d9',
-      'lineColor': '#86b5d9',
-      'secondaryColor': '#c8e6c9',
-      'tertiaryColor': '#ffda9e'
+      'primaryColor': '#314e6e',
+      'edgeLabelBackground':'#222',
+      'primaryTextColor': '#f8f8f8',
+      'lineColor': '#86b5d9'
     }
   }
 }%%
 mindmap
-  root((James Pether<br>Sörling))
+  root((James Pether Sörling))
     Information Security
-      ::icon(fa fa-shield)
       Risk Assessment & Management
-      CISSP & CISM Certified
+      CISSP / CISM Certified
       Security Architecture Design
-        Zero Trust Principles
+        Zero Trust
         Defense-in-Depth
       Compliance Frameworks
         ISO 27001
-        NIST 800-53 
+        NIST 800-53
         VDA-ISA
         CIS Controls
         GDPR
       Security Operations
         Incident Response
-        Vulnerability Management
+        Vulnerability Mgmt
         Security Monitoring
     Cloud Security
-      ::icon(fa fa-cloud)
-      Multi-Cloud Expertise
-        AWS Advanced
-        Microsoft Azure
+      Multi-Cloud: AWS, Azure
       Enterprise Architecture
-        High Availability Designs
-        Multi-Region Deployments
-        Resilience Engineering
+        High Availability
+        Multi-Region
+        Resilience
       Infrastructure as Code
         CloudFormation
         Terraform
       Secure Cloud Services
         AWS Security Hub
-        AWS GuardDuty
-        KMS Encryption
-        AWS WAF
+        GuardDuty
+        KMS
+        WAF
     Leadership & Governance
-      ::icon(fa fa-users)
       Information Security Officer
       Security Architect
       Policy Development
       IT Governance
       Team Leadership
       Open Source Program Office
-      AI Governance & Security
+      AI Governance
     Software Engineering
-      ::icon(fa fa-code)
       Secure Development (SSDLC)
-      Java/Spring Full-Stack
-      TypeScript/JavaScript/React
+      Java / Spring / React
       Automated Testing
       CI/CD Pipelines
       Code Quality
         SLSA Level 3
         SonarQube
     Open Source Leadership
-      ::icon(fa fa-github)
-      Project Creator & Maintainer
-      Community Contributor
-      Security Tool Development
+      Project Maintainer
+      Contributor
+      Security Tooling
       Code Review
 ```
 
