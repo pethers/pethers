@@ -444,46 +444,39 @@ Three decades of hands-on experience in software development and security archit
 <div align="center">
 
 ```mermaid
-%%{init: {"theme":"dark"}}%%
 mindmap
-  root)👨‍💼 **James Pether Sörling**(
-    🔐 **Information Security**
-      🛡️ **Risk Assessment & Management**
-      🎓 **CISSP / CISM Certified**
-      🏛️ **Security Architecture Design**
-        🔒 **Zero Trust**
-        🛡️ **Defense-in-Depth**
-      ⚙️ **Compliance Frameworks**
-        ::icon(fa fa-certificate)
+  root)👨‍💼 James Pether Sörling(
+    🔐 Information Security
+      🛡️ Risk Assessment & Management
+      🎓 CISSP / CISM Certified
+      🏛️ Security Architecture Design
+        🔒 Zero Trust
+        🛡️ Defense-in-Depth
+      ⚙️ Compliance Frameworks
         ISO 27001
         NIST 800-53
         VDA-ISA
         CIS Controls
         GDPR
-      🚨 **Security Operations**
-        ::icon(fa fa-bolt)
+      🚨 Security Operations
         Incident Response
         Vulnerability Management
         Security Monitoring
-    ☁️ **Cloud Security**
-      ::icon(fa fa-cloud)
-      🌐 **Multi-Cloud: AWS, Azure**
-      🏗️ **Enterprise Architecture**
+    ☁️ Cloud Security
+      🌐 Multi-Cloud: AWS, Azure
+      🏗️ Enterprise Architecture
         High Availability
         Multi-Region
         Resilience
-      🛠️ **Infrastructure as Code**
-        ::icon(fa fa-code)
+      🛠️ Infrastructure as Code
         CloudFormation
         Terraform
-      🔒 **Secure Cloud Services**
-        ::icon(fa fa-lock)
+      🔒 Secure Cloud Services
         Security Hub
         GuardDuty
         KMS
         WAF
-    🗂️ **Leadership & Governance**
-      ::icon(fa fa-users)
+    🗂️ Leadership & Governance
       👨‍💼 Information Security Officer
       🏛️ Security Architect
       📝 Policy Development
@@ -491,8 +484,7 @@ mindmap
       👥 Team Leadership
       🌐 Open Source Program Office
       🤖 AI Governance
-    💻 **Software Engineering**
-      ::icon(fa fa-code)
+    💻 Software Engineering
       🛠️ Secure Development (SSDLC)
       🌱 Java / Spring / React
       ⚙️ Automated Testing
@@ -500,26 +492,11 @@ mindmap
       📈 Code Quality
         SLSA Level 3
         SonarQube
-    🌍 **Open Source Leadership**
-      ::icon(fa fa-github)
+    🌍 Open Source Leadership
       👨‍🔬 Project Maintainer
       🤝 Community Contributor
       🛡️ Security Tooling
       👀 Code Review
-
-classDef default fill:#222,stroke:#666,stroke-width:2px,color:#fff;
-classDef infosec fill:#D32F2F,stroke:#B71C1C,stroke-width:2px,color:#fff;
-classDef cloud fill:#1976d2,stroke:#1565c0,stroke-width:2px,color:#fff;
-classDef governance fill:#FFC107,stroke:#FFA000,stroke-width:2px,color:#222;
-classDef engineering fill:#4CAF50,stroke:#2E7D32,stroke-width:2px,color:#fff;
-classDef opensource fill:#9E9E9E,stroke:#757575,stroke-width:2px,color:#222;
-
-class root default;
-class "🔐 **Information Security**" infosec;
-class "☁️ **Cloud Security**" cloud;
-class "🗂️ **Leadership & Governance**" governance;
-class "💻 **Software Engineering**" engineering;
-class "🌍 **Open Source Leadership**" opensource;
 ```
 
 </div>
