@@ -444,49 +444,40 @@ Three decades of hands-on experience in software development and security archit
 <div align="center">
 
 ```mermaid
-%%{init: {
-  "theme": "dark",
-  "themeVariables": {
-    "primaryColor": "#1976d2",
-    "secondaryColor": "#1565c0",
-    "tertiaryColor": "#4caf50",
-    "lineColor": "#ff9800",
-    "primaryTextColor": "#ffffff"
-  }
-}}%%
+%%{init: {"theme":"dark"}}%%
 mindmap
   root)👨‍💼 James Pether Sörling(
-    (🔐 Information Security)
+    (🔐 Information Security):::infosec
       🛡️ Risk Assessment & Management
       🎓 CISSP / CISM Certified
       🏛️ Security Architecture Design
-        🔒 Zero Trust
-        🛡️ Defense-in-Depth
+         🔒 Zero Trust
+         🛡️ Defense-in-Depth
       ⚙️ Compliance Frameworks
-        ISO 27001
-        NIST 800-53
-        VDA-ISA
-        CIS Controls
-        GDPR
+         ISO 27001
+         NIST 800-53
+         VDA-ISA
+         CIS Controls
+         GDPR
       🚨 Security Operations
-        Incident Response
-        Vulnerability Management
-        Security Monitoring
-    (☁️ Cloud Security)
+         Incident Response
+         Vulnerability Management
+         Security Monitoring
+    (☁️ Cloud Security):::cloud
       🌐 Multi-Cloud: AWS, Azure
       🏗️ Enterprise Architecture
-        High Availability
-        Multi-Region
-        Resilience
+         High Availability
+         Multi-Region
+         Resilience
       🛠️ Infrastructure as Code
-        CloudFormation
-        Terraform
+         CloudFormation
+         Terraform
       🔒 Secure Cloud Services
-        Security Hub
-        GuardDuty
-        KMS
-        WAF
-    (🗂️ Leadership & Governance)
+         Security Hub
+         GuardDuty
+         KMS
+         WAF
+    (🗂️ Leadership & Governance):::governance
       👨‍💼 Information Security Officer
       🏛️ Security Architect
       📝 Policy Development
@@ -494,19 +485,25 @@ mindmap
       👥 Team Leadership
       🌐 Open Source Program Office
       🤖 AI Governance
-    (💻 Software Engineering)
+    (💻 Software Engineering):::engineering
       🛠️ Secure Development (SSDLC)
       🌱 Java / Spring / React
       ⚙️ Automated Testing
       🔄 CI/CD Pipelines
       📈 Code Quality
-        SLSA Level 3
-        SonarQube
-    (🌍 Open Source Leadership)
+         SLSA Level 3
+         SonarQube
+    (🌍 Open Source Leadership):::opensource
       👨‍🔬 Project Maintainer
       🤝 Community Contributor
       🛡️ Security Tooling
       👀 Code Review
+
+classDef infosec fill:#D32F2F,color:#fff,stroke:#B71C1C;
+classDef cloud fill:#1976d2,color:#fff,stroke:#1565c0;
+classDef governance fill:#FFC107,color:#222,stroke:#FFA000;
+classDef engineering fill:#4CAF50,color:#fff,stroke:#2E7D32;
+classDef opensource fill:#9E9E9E,color:#222,stroke:#757575;
 ```
 
 </div>
