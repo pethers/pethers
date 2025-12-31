@@ -60,6 +60,67 @@ Our approach to cybersecurity consulting is built on a foundation of transparent
 
 ---
 
+## 🌟 Featured in Press & Media
+
+<table>
+  <tr>
+    <td width="25%">
+      <div align="center">
+        <h3>🗞️ Computer Sweden</h3>
+        <p>Featured article on innovative use of technology for political transparency</p>
+        <a href="https://computersweden.idg.se/2.2683/1.229120/tekniken-som-avslojar-politikerna">Read Article</a>
+      </div>
+    </td>
+    <td width="25%">
+      <div align="center">
+        <h3>📰 Riksdag och Departement</h3>
+        <p>Coverage on Citizen Intelligence Agency's monitoring capabilities</p>
+        <a href="https://web.archive.org/web/20090527045800/http:/www.rod.se/Artikelarkiv/2009/CIA-haller-koll-pa-riksdagsledamoterna/">Read Article</a>
+      </div>
+    </td>
+    <td width="25%">
+      <div align="center">
+        <h3>📊 National Democratic Institute</h3>
+        <p>Recognized in survey of parliamentary monitoring organizations</p>
+        <a href="https://www.ndi.org/sites/default/files/governance-parliamentary-monitoring-organizations-survey-september-2011.pdf">View Report</a>
+      </div>
+    </td>
+    <td width="25%">
+      <div align="center">
+        <h3>📰 Expressen</h3>
+        <p>Eric Erfors credits Citizen Intelligence Agency for exposing politician voting attendance records</p>
+        <a href="https://www.expressen.se/ledare/eric-erfors/eric-erfors-skolkaren-sahlin/">Read Article</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 🎤 Technical Talks & Presentations
+
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <h3>🎙️ Javaforum Göteborg</h3>
+        <p>Presentation on secure architecture patterns</p>
+        <a href="https://www.youtube.com/watch?v=A_hq2Y03d6I">
+          <img src="https://img.shields.io/badge/Watch-Presentation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Presentation">
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <h3>🎙️ Shift Left Like A Boss</h3>
+        <p>Security podcast guest appearance discussing DevSecOps</p>
+        <a href="https://www.youtube.com/watch?v=aYwSd1Wu28Q&ab_channel=Soluble">
+          <img src="https://img.shields.io/badge/Listen-Podcast-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Listen to Podcast">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 ### 🍎 Discordian Cybersecurity Insights
 
 Explore information security, ISMS policies, and cybersecurity best practices through the unique **Discordian lens** inspired by the *Illuminatus!* trilogy. **"Think for yourself, question authority."**
