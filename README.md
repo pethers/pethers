@@ -209,7 +209,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 <table>
   <tr>
     <td width="120" align="center">
-      <img src="https://hack23.github.io/cia-compliance-manager/icon-192.png" width="80" height="80" alt="CIA Compliance Manager Logo"/>
+      <img src="https://ciacompliancemanager.com/icon-192.png" width="80" height="80" alt="CIA Compliance Manager Logo"/>
       <div>
         <a href="https://github.com/Hack23/cia-compliance-manager">
           <img src="https://img.shields.io/github/v/release/Hack23/cia-compliance-manager" alt="Release">
@@ -230,7 +230,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
         </a>
       </div>
       <div>
-        <a href="https://hack23.github.io/cia-compliance-manager/"><strong>🚀 Live Demo</strong></a> •
+        <a href="https://ciacompliancemanager.com/"><strong>🚀 Live Demo</strong></a> •
         <a href="https://github.com/Hack23/cia-compliance-manager"><strong>📂 Repository</strong></a> •
         <a href="https://hack23.com/cia-compliance-manager-features.html"><strong>✨ Features</strong></a> •
         <a href="https://hack23.com/cia-compliance-manager-docs.html"><strong>📚 Documentation</strong></a>
@@ -493,7 +493,7 @@ Three decades of hands-on experience in software development and security archit
     <th>Future Vision</th>
   </tr>
   <tr>
-    <td><img src="https://hack23.github.io/cia-compliance-manager/icon-192.png" width="24" height="24"> CIA Compliance Manager</td>
+    <td><img src="https://ciacompliancemanager.com/icon-192.png" width="24" height="24"> CIA Compliance Manager</td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/ARCHITECTURE.md">🏛️ Architecture</a></td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/SECURITY_ARCHITECTURE.md">🔒 Security</a></td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FUTURE_ARCHITECTURE.md">🔮 Future</a></td>
@@ -514,7 +514,7 @@ Three decades of hands-on experience in software development and security archit
     <th>Mindmaps</th>
   </tr>
   <tr>
-    <td><img src="https://hack23.github.io/cia-compliance-manager/icon-192.png" width="24" height="24"> CIA Compliance Manager</td>
+    <td><img src="https://ciacompliancemanager.com/icon-192.png" width="24" height="24"> CIA Compliance Manager</td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/FLOWCHART.md">📊 Flowcharts</a></td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/STATEDIAGRAM.md">🔄 States</a></td>
     <td><a href="https://github.com/Hack23/cia-compliance-manager/blob/main/docs/architecture/MINDMAP.md">🧠 Mindmaps</a></td>
