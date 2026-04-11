@@ -224,6 +224,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
         </a>
       </div>
       <div>
+        <a href="https://euparliamentmonitor.com"><strong>🌐 Official Website</strong></a> •
         <a href="https://github.com/Hack23/euparliamentmonitor"><strong>📂 Repository</strong></a> •
         <a href="https://hack23.com/euparliamentmonitor-features.html"><strong>✨ Features</strong></a> •
         <a href="https://hack23.com/euparliamentmonitor-docs.html"><strong>📚 Documentation</strong></a>
@@ -238,6 +239,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![Test and Report](https://github.com/Hack23/euparliamentmonitor/actions/workflows/test-and-report.yml/badge.svg)](https://github.com/Hack23/euparliamentmonitor/actions/workflows/test-and-report.yml)
 [![License](https://img.shields.io/github/license/Hack23/euparliamentmonitor)](https://github.com/Hack23/euparliamentmonitor/blob/main/LICENSE)
 [![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/euparliamentmonitor)
 
 
 ### 🔌 European Parliament MCP Server
@@ -281,6 +283,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![Build Status](https://github.com/Hack23/European-Parliament-MCP-Server/actions/workflows/main.yml/badge.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/actions/workflows/main.yml)
 [![License](https://img.shields.io/github/license/Hack23/European-Parliament-MCP-Server.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/LICENSE.md)
 [![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/European-Parliament-MCP-Server)
 
 
 ### 🔍 Citizen Intelligence Agency
@@ -324,6 +327,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![Scorecard supply-chain security](https://github.com/Hack23/cia/actions/workflows/scorecards.yml/badge.svg?branch=master)](https://github.com/Hack23/cia/actions/workflows/scorecards.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hack23_cia)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/cia)
 
 
 # 🔥 Black Trigram (흑괘)
@@ -369,6 +373,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHack23%2Fblacktrigram.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHack23%2Fblacktrigram?ref=badge_shield)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/blacktrigram)
 
 
 ### 🔐 CIA Compliance Manager
@@ -417,6 +422,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/cia-compliance-manager)
 
 ### 🎮 Game Template
 
