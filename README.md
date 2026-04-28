@@ -1,32 +1,157 @@
-# CEO/Founder Hack23 | Security & Open Source Expert | Cloud Security Specialist | Information Security Professional  
+<!-- SPDX-FileCopyrightText: 2024-2026 James Pether Sörling / Hack23 AB -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
 
-<div align="center">
-  <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-jamessorling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Hack23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.openhub.net/accounts/pether"><img src="https://img.shields.io/badge/OpenHub-pether-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OpenHub"/></a>
-</div>
+<!--
+SEO meta — keywords (GitHub READMEs do not support real <meta> tags, so this
+hidden HTML comment indexes the topics covered below for human readers, search
+engines, and large-language-model crawlers that DO read README content):
+
+  James Pether Sörling, Pether Sörling, pethers, Hack23, Hack23 AB,
+  CEO Founder Hack23, cybersecurity consulting Sweden, cybersecurity
+  consulting Gothenburg, Göteborg, Sverige, information security consultant,
+  security architect, cloud security, AWS security, AWS security specialty,
+  AWS solutions architect professional, DevSecOps, secure SDLC, SSDLC,
+  application security, supply chain security, SLSA, SLSA Level 3, SBOM,
+  OpenSSF Scorecard, OpenSSF Best Practices (CII), ISMS, ISO 27001,
+  ISO 27001:2022, ISO/IEC 5230 OpenChain, NIS2, NIST CSF 2.0,
+  CIS Controls v8.1, GDPR, EU Cyber Resilience Act, EU CRA, CISSP, CISM,
+  open source security, OSPO, Open Source Program Office, transparency,
+  Riksdagsmonitor, EU Parliament Monitor, European Parliament MCP Server,
+  Citizen Intelligence Agency, CIA Compliance Manager, Black Trigram,
+  Discordian Cybersecurity, public ISMS, threat modeling, STRIDE,
+  political transparency, parliamentary monitoring, civic tech,
+  AWS CloudFormation, sonar-cloudformation-plugin, cfn-nag.
+-->
+
+<p align="center">
+  <a href="https://hack23.com"><img src="https://hack23.com/icon-192.png" alt="Hack23 Logo" width="160" height="160"></a>
+</p>
+
+<h1 align="center">👨‍💼 James Pether Sörling — CEO &amp; Founder, Hack23 AB</h1>
+
+<p align="center">
+  <strong>Cybersecurity consulting · Security architecture · Cloud security · DevSecOps · Public ISMS · Open Source Transparency</strong><br>
+  <em>📍 Gothenburg, Sweden 🇸🇪 — 30+ years in IT · CISSP · CISM · AWS Security &amp; Solutions Architect (Professional)</em>
+</p>
+
+<p align="center">
+  <em>Builder of <a href="https://github.com/Hack23/ISMS-PUBLIC">ISMS-PUBLIC</a> ·
+  <a href="https://riksdagsmonitor.com">Riksdagsmonitor</a> ·
+  <a href="https://euparliamentmonitor.com">EU Parliament Monitor</a> ·
+  <a href="https://github.com/Hack23/European-Parliament-MCP-Server">European Parliament MCP Server</a> ·
+  <a href="https://github.com/Hack23/cia">Citizen Intelligence Agency</a> ·
+  <a href="https://ciacompliancemanager.com">CIA Compliance Manager</a> ·
+  <a href="https://blacktrigram.com">Black Trigram</a></em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/Hack23"><img src="https://img.shields.io/badge/💖_Sponsor-Hack23-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Hack23 on GitHub Sponsors"/></a>
+  <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Hack23 Website"/></a>
+  <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-jamessorling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — James Pether Sörling"/></a>
+  <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Hack23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization — Hack23"/></a>
+  <a href="https://github.com/pethers"><img src="https://img.shields.io/badge/GitHub-pethers-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub User — pethers"/></a>
+  <a href="https://www.openhub.net/accounts/pether"><img src="https://img.shields.io/badge/OpenHub-pether-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OpenHub — pether"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hack23/ISMS-PUBLIC"><img src="https://img.shields.io/badge/Hack23-ISMS_PUBLIC-0066CC?style=for-the-badge&logo=shield&logoColor=white" alt="Hack23 Public ISMS"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md"><img src="https://img.shields.io/badge/ISO_27001-2022-purple?style=for-the-badge" alt="ISO 27001:2022 aligned"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md"><img src="https://img.shields.io/badge/NIST-CSF_2.0-orange?style=for-the-badge" alt="NIST CSF 2.0 aligned"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md"><img src="https://img.shields.io/badge/CIS-Controls_v8.1-red?style=for-the-badge" alt="CIS Controls v8.1 aligned"/></a>
+  <a href="https://slsa.dev"><img src="https://img.shields.io/badge/SLSA-Level_3-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="SLSA Level 3 supply-chain"/></a>
+  <a href="https://hack23.com/why-hack23.html"><img src="https://img.shields.io/badge/NIS2_·_GDPR_·_EU_CRA-Aligned-1976D2?style=for-the-badge" alt="NIS2 / GDPR / EU CRA aligned"/></a>
+</p>
+
+<p align="center">
+  <a href="https://user-badge.committers.top/sweden/pethers"><img src="https://user-badge.committers.top/sweden/pethers.svg?version=latest&cache-control=no-cache" alt="Top Swedish committers — pethers"/></a>
+</p>
 
 ---
 
-### CEO/Founder of Hack23 | [![committers.top badge](https://user-badge.committers.top/sweden/pethers.svg?version=latest&cache-control=no-cache)](https://user-badge.committers.top/sweden/pethers)
+## 📑 Table of Contents
 
-Strong advocate for transparency in organizations, secure software development practices, and innovative open source solutions. 
-Experienced security professional with over 30 years in information technology, specializing in security architecture, cloud security, and compliance.
-Prior roles including Application Security Officer at Stena, Information Security Officer at Polestar and Senior Security Architect at WirelessCar.
+- [💖 Sponsor Hack23 — Support Open Source Security](#-sponsor-hack23--support-open-source-security)
+- [🎯 About Me](#-about-me)
+- [🏆 Professional Certifications](#-professional-certifications)
+- [🔐 Commitment to Transparency and Security](#-commitment-to-transparency-and-security)
+- [🏢 Hack23 AB](#-hack23-ab)
+- [🍎 Discordian Cybersecurity Insights](#-discordian-cybersecurity-insights)
+- [🚀 Open Source Projects](#-open-source-projects)
+- [🔑 Security Services](#-security-services)
+- [📚 Project Documentation Index](#-cia-compliance-manager-documentation)
+- [🛡️ Security Focus Areas (CIA Triad)](#-security-focus-areas)
+- [🌟 Press &amp; Media](#-featured-in-press--media)
+- [🎤 Technical Talks &amp; Presentations](#-technical-talks--presentations)
+- [💼 About James Pether Sörling](#-about-james-pether-sörling)
+- [🗺️ Hack23.com Site Map](#️-site-map-overview)
+- [📫 Connect &amp; Sponsor](#-connect)
+
+---
+
+## 💖 Sponsor Hack23 — Support Open Source Security
+
+<div align="center">
+
+[![Sponsor Hack23](https://img.shields.io/badge/Sponsor-Hack23-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Hack23)
+
+**Help keep enterprise-grade security transparent, free, and independent.**
+
+</div>
+
+[Hack23 AB](https://hack23.com) is bootstrapped, vendor-independent, and **gives away** what most consultancies sell behind a paywall — a complete [public ISMS](https://github.com/Hack23/ISMS-PUBLIC) aligned with **ISO 27001:2022 / NIS2 / GDPR / EU CRA / NIST CSF 2.0 / CIS Controls v8.1**, production-grade open-source platforms for parliamentary transparency, and a deep [Discordian Cybersecurity blog](https://hack23.com/blog.html) demystifying real-world security practice.
+
+**Your sponsorship directly funds:**
+
+- 🛡️ Maintenance and continuous improvement of the **[public ISMS-PUBLIC](https://github.com/Hack23/ISMS-PUBLIC)** — 40+ policies, free to fork for any organisation
+- 🗳️ Operating costs of the **parliamentary transparency platforms**: [Riksdagsmonitor](https://riksdagsmonitor.com), [EU Parliament Monitor](https://euparliamentmonitor.com), [European Parliament MCP Server](https://github.com/Hack23/European-Parliament-MCP-Server), [Citizen Intelligence Agency](https://github.com/Hack23/cia)
+- 🔬 **Independent security research** — supply-chain hardening, SBOM tooling, AWS security analysers ([sonar-cloudformation-plugin](https://github.com/Hack23/sonar-cloudformation-plugin)), threat-model templates
+- 📚 **Free educational content** — 30+ [Discordian Cybersecurity blog posts](https://hack23.com/blog.html), the [CIA Triad FAQ](https://hack23.com/cia-triad-faq.html), security assessment checklists
+- 🏅 **SLSA Level 3 supply-chain hardening** of every Hack23 release — signed attestations, dependency review, OpenSSF Scorecard
+- 🌍 **14-language accessibility** of public-interest political intelligence — democracy is for everyone, not only English speakers
+
+**Why sponsor?** Most security knowledge sits behind NDAs and audit-firm paywalls. Hack23 publishes the actual policies, threat models, architectures, and source code we run — so anyone, anywhere, can learn from them, copy them, and improve them. **Sponsorship is how the lights stay on without compromising independence or accepting hidden agendas.**
+
+> 🌟 **[Become a Hack23 sponsor → github.com/sponsors/Hack23](https://github.com/sponsors/Hack23)**
+
+---
+
+## 🎯 About Me
+
+[![committers.top — Sweden — pethers](https://user-badge.committers.top/sweden/pethers.svg?version=latest&cache-control=no-cache)](https://user-badge.committers.top/sweden/pethers)
+
+Strong advocate for **transparency in organisations**, **secure software development practices**, and **innovative open-source solutions**. Experienced security professional with **over 30 years in information technology**, specialising in **security architecture, cloud security, DevSecOps, and compliance** ([ISO 27001](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md), NIS2, GDPR, EU CRA, NIST CSF 2.0, CIS Controls v8.1).
+
+Prior roles include:
+
+- 🛡️ **Application Security Officer** — Stena
+- 🛡️ **Information Security Officer** — Polestar
+- 🏗️ **Senior Security Architect** — WirelessCar
+
+Currently **CEO/Founder of [Hack23 AB](https://hack23.com)** — a Swedish (Gothenburg-based) cybersecurity consultancy delivering practical [security architecture](https://hack23.com/services.html#security-architecture), [AWS cloud security](https://hack23.com/services.html#cloud-security), secure-SDLC enablement, and [ISO 27001 / NIS2 / GDPR / EU CRA compliance](https://hack23.com/services.html#compliance) through a 100 %-public ISMS and live open-source reference implementations.
+
+---
+
+## 🏆 Professional Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CISSP-Certified-0056B3?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP — (ISC)² Certified Information Systems Security Professional"/>
+  <img src="https://img.shields.io/badge/CISM-Certified-006400?style=for-the-badge&logo=isaca&logoColor=white" alt="CISM — ISACA Certified Information Security Manager"/>
+  <img src="https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Security – Specialty"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect – Professional"/>
+</div>
 
 ---
 
 ## 🔐 Commitment to Transparency and Security
 
-At Hack23 AB, we believe that true security comes through transparency and demonstrable practices. Our Information Security Management System (ISMS) is publicly available, showcasing our commitment to open security practices.
+At [Hack23 AB](https://hack23.com), we believe that true security comes through **transparency and demonstrable practices**. Our [Information Security Management System (ISMS)](https://github.com/Hack23/ISMS-PUBLIC) is publicly available, showcasing our commitment to open security practices and serving as a live reference for any organisation building its own.
 
 <table>
   <tr>
     <td width="50%">
       <div align="center">
         <h3>📋 Public ISMS Repository</h3>
-        <p>Complete Information Security Management System documentation</p>
+        <p>Complete Information Security Management System — 40+ policies aligned with ISO 27001:2022, NIS2, GDPR, EU CRA, NIST CSF 2.0, and CIS Controls v8.1.</p>
         <a href="https://github.com/Hack23/ISMS-PUBLIC">
           <img src="https://img.shields.io/badge/ISMS-PUBLIC-0066CC?style=for-the-badge&logo=github&logoColor=white" alt="ISMS Public Repository">
         </a>
@@ -35,7 +160,7 @@ At Hack23 AB, we believe that true security comes through transparency and demon
     <td width="50%">
       <div align="center">
         <h3>🔒 Information Security Policy</h3>
-        <p>Enterprise-grade security framework and governance</p>
+        <p>Enterprise-grade security framework and governance — the canonical, machine-verifiable policy set.</p>
         <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md">
           <img src="https://img.shields.io/badge/Security-Policy-DC143C?style=for-the-badge&logo=shield&logoColor=white" alt="Information Security Policy">
         </a>
@@ -48,84 +173,33 @@ At Hack23 AB, we believe that true security comes through transparency and demon
 
 Our approach to cybersecurity consulting is built on a foundation of transparent practices:
 
-- **🔍 Open Documentation**: Complete ISMS framework available for review
-- **📋 Policy Transparency**: Detailed security policies and procedures publicly accessible  
-- **🎯 Demonstrable Expertise**: Our own security implementation serves as a live demonstration
-- **🔄 Continuous Improvement**: Public documentation enables community feedback and enhancement
+- **🔍 Open Documentation** — Complete ISMS framework available for review
+- **📋 Policy Transparency** — Detailed security policies and procedures publicly accessible
+- **🎯 Demonstrable Expertise** — Our own security implementation serves as a live demonstration
+- **🔄 Continuous Improvement** — Public documentation enables community feedback and enhancement
 
 <div align="center">
-  <p><em>"Our commitment to transparency extends to our security practices - demonstrating that true security comes from robust processes, continuous improvement, and a culture where security considerations are integrated from the start."</em></p>
-  <p><strong>— James Pether Sörling, CEO/Founder</strong></p>
+  <p><em>"Our commitment to transparency extends to our security practices — demonstrating that true security comes from robust processes, continuous improvement, and a culture where security considerations are integrated from the start."</em></p>
+  <p><strong>— James Pether Sörling, CEO/Founder, Hack23 AB</strong></p>
 </div>
 
 ---
 
-### Professional Certifications
+## 🏢 Hack23 AB
+
+### Swedish innovation hub specialising in **cybersecurity consulting &amp; solutions** alongside immersive, security-aware game experiences.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CISSP-Certified-0056B3?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP"/>
-  <img src="https://img.shields.io/badge/CISM-Certified-006400?style=for-the-badge&logo=isaca&logoColor=white" alt="CISM"/>
-  <img src="https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Security"/>
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect"/>
-</div>
-
----
-# 🔒 Hack23 AB
-### Swedish innovation hub specializing in creating immersive and precise game experiences alongside expert cybersecurity consulting and solutions.
-
-<div align="center">
-  <a href="https://hack23.com">https://hack23.com</a>
-  
+  <p><strong>🌐 <a href="https://hack23.com">https://hack23.com</a></strong> · 🏢 Org.nr 559534-7807 · 📍 Gothenburg, Sweden 🇸🇪</p>
   <p>
-    <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
-    <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Hack23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-jamessorling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.openhub.net/accounts/pether"><img src="https://img.shields.io/badge/OpenHub-pether-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OpenHub"/></a>
+    <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Hack23 Website"/></a>
+    <a href="https://hack23.com/services.html"><img src="https://img.shields.io/badge/Services-Overview-1976D2?style=for-the-badge&logo=briefcase&logoColor=white" alt="Hack23 Services"/></a>
+    <a href="https://hack23.com/why-hack23.html"><img src="https://img.shields.io/badge/Why-Hack23-7B1FA2?style=for-the-badge" alt="Why Hack23"/></a>
+    <a href="https://hack23.com/cia-triad-faq.html"><img src="https://img.shields.io/badge/CIA_Triad-FAQ-DC143C?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CIA Triad FAQ"/></a>
+    <a href="https://hack23.com/blog.html"><img src="https://img.shields.io/badge/Blog-Discordian-FF6B35?style=for-the-badge&logo=blogger&logoColor=white" alt="Discordian Cybersecurity Blog"/></a>
+    <a href="https://hack23.com/sitemap.html"><img src="https://img.shields.io/badge/Sitemap-All_Pages-0A66C2?style=for-the-badge" alt="Hack23 Sitemap"/></a>
   </p>
 </div>
-
-
-## 🔐 Commitment to Transparency and Security
-
-At Hack23 AB, we believe that true security comes through transparency and demonstrable practices. Our Information Security Management System (ISMS) is publicly available, showcasing our commitment to security excellence and organizational transparency.
-
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <h3>📋 Public ISMS Repository</h3>
-        <p>Complete Information Security Management System documentation</p>
-        <a href="https://github.com/Hack23/ISMS-PUBLIC">
-          <img src="https://img.shields.io/badge/ISMS-PUBLIC-0066CC?style=for-the-badge&logo=github&logoColor=white" alt="ISMS Public Repository">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3>🔒 Information Security Policy</h3>
-        <p>Enterprise-grade security framework and governance</p>
-        <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md">
-          <img src="https://img.shields.io/badge/Security-Policy-DC143C?style=for-the-badge&logo=shield&logoColor=white" alt="Information Security Policy">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-### 🏆 Security Through Transparency
-
-Our approach to cybersecurity consulting is built on a foundation of transparent practices:
-
-- **🔍 Open Documentation**: Complete ISMS framework available for review
-- **📋 Policy Transparency**: Detailed security policies and procedures publicly accessible  
-- **🎯 Demonstrable Expertise**: Our own security implementation serves as a live demonstration
-- **🔄 Continuous Improvement**: Public documentation enables community feedback and enhancement
-
-<div align="center">
-  <p><em>"Our commitment to transparency extends to our security practices - demonstrating that true security comes from robust processes, continuous improvement, and a culture where security considerations are integrated into every business decision."</em></p>
-  <p><strong>— James Pether Sörling, CEO/Founder</strong></p>
-</div>
-
 ---
 
 ### 🍎 Discordian Cybersecurity Insights
@@ -152,6 +226,12 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 - 🍎 **Illuminatus! Style** - FNORD detection, Chapel Perilous references, 23 FNORD 5 signatures
 
 *All hail Eris! All hail Discordia!* 🍎
+
+---
+
+## 🚀 Open Source Projects
+
+A curated portfolio of [Hack23 AB](https://github.com/Hack23) open-source projects — every one operated under the [public ISMS](https://github.com/Hack23/ISMS-PUBLIC), with [OpenSSF Scorecard](https://scorecard.dev), [SLSA Level 3](https://slsa.dev) attestations, [DeepWiki](https://deepwiki.com) docs, and reproducible builds.
 
 ---
 
@@ -304,7 +384,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
         <a href="https://bestpractices.coreinfrastructure.org/projects/770">
           <img src="https://bestpractices.coreinfrastructure.org/projects/770/badge" alt="CII Best Practices">
         </a>
-        <a href="[https://slsa.dev/spec/v1.0/levels](https://github.com/Hack23/cia/attestations)">
+        <a href="https://github.com/Hack23/cia/attestations">
           <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
         </a>
         <a href="https://sonarcloud.io/summary/new_code?id=Hack23_cia">
@@ -322,7 +402,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/770/badge)](https://bestpractices.coreinfrastructure.org/projects/770)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/cia/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/cia)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://slsa.dev/spec/v1.0/levels)
+[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/cia/attestations)
 [![Verify & Deploy](https://github.com/Hack23/cia/actions/workflows/release.yml/badge.svg?branch=master)](https://github.com/Hack23/cia/actions/workflows/release.yml)
 [![Scorecard supply-chain security](https://github.com/Hack23/cia/actions/workflows/scorecards.yml/badge.svg?branch=master)](https://github.com/Hack23/cia/actions/workflows/scorecards.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hack23_cia)
@@ -330,7 +410,7 @@ Explore information security, ISMS policies, and cybersecurity best practices th
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/cia)
 
 
-# 🔥 Black Trigram (흑괘)
+### 🔥 Black Trigram (흑괘)
 
 <table>
   <tr>
@@ -963,15 +1043,6 @@ mindmap
 
 Experienced technology professional specializing in information security and delivery of secure cloud systems. Strong advocate for transparency in organizations and committed to ensuring robust security posture for modern applications through open source solutions.
 
-## 📫 Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.hack23.com/blog.html"><img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
-  <a href="https://github.com/Hack23/talks"><img src="https://img.shields.io/badge/Tech_Talks-Watch-FF0000?style=for-the-badge&logo=youtube" alt="Tech Talks"/></a>
-</div>
-
 ## 🗺️ Site Map Overview
 
 Hack23.com is a static, multi-language HTML/CSS site deployed to AWS S3 + CloudFront.  
@@ -1319,13 +1390,37 @@ Technical endpoints and repositories powering the public site:
 - 🇪🇺 **EU Parliament Monitor:** https://github.com/Hack23/euparliamentmonitor  
 - 🔌 **European Parliament MCP Server:** https://github.com/Hack23/European-Parliament-MCP-Server  
 
+
+---
+
+## 💖 Support Open Source Security — Sponsor Hack23
+
+<div align="center">
+
+[![Sponsor Hack23](https://img.shields.io/badge/Sponsor-Hack23-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Hack23)
+[![ISMS Public](https://img.shields.io/badge/ISMS-PUBLIC-0066CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hack23/ISMS-PUBLIC)
+[![Discordian Blog](https://img.shields.io/badge/Discordian-Cybersecurity-FF6B35?style=for-the-badge&logo=blogger&logoColor=white)](https://hack23.com/blog.html)
+
+</div>
+
+If this work — the [public ISMS](https://github.com/Hack23/ISMS-PUBLIC), [Riksdagsmonitor](https://riksdagsmonitor.com), [EU Parliament Monitor](https://euparliamentmonitor.com), the [European Parliament MCP Server](https://github.com/Hack23/European-Parliament-MCP-Server), [Citizen Intelligence Agency](https://github.com/Hack23/cia), [CIA Compliance Manager](https://ciacompliancemanager.com), [Black Trigram](https://blacktrigram.com), the [sonar-cloudformation-plugin](https://github.com/Hack23/sonar-cloudformation-plugin), and the [Discordian Cybersecurity blog](https://hack23.com/blog.html) — has helped you, your team, your reporting, or your democracy, please consider sponsoring:
+
+> 🌟 **[github.com/sponsors/Hack23](https://github.com/sponsors/Hack23)**
+
+Sponsorship keeps the projects independent, ad-free, vendor-neutral, and **fully open-source under permissive licences**.
+
+---
+
 ## 📫 Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.hack23.com/blog.html"><img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
-  <a href="https://github.com/Hack23/talks"><img src="https://img.shields.io/badge/Tech_Talks-Watch-FF0000?style=for-the-badge&logo=youtube" alt="Tech Talks"/></a>
+  <a href="https://github.com/sponsors/Hack23"><img src="https://img.shields.io/badge/💖_Sponsor-Hack23-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Hack23"/></a>
+  <a href="https://www.linkedin.com/in/jamessorling/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — James Pether Sörling"/></a>
+  <a href="https://github.com/Hack23"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Hack23 on GitHub"/></a>
+  <a href="https://hack23.com"><img src="https://img.shields.io/badge/Website-hack23.com-00cc66?style=for-the-badge&logo=firefox&logoColor=white" alt="Hack23 Website"/></a>
+  <a href="https://www.hack23.com/blog.html"><img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Discordian Cybersecurity Blog"/></a>
+  <a href="https://github.com/Hack23/talks"><img src="https://img.shields.io/badge/Tech_Talks-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Hack23 Tech Talks"/></a>
+  <a href="https://www.openhub.net/accounts/pether"><img src="https://img.shields.io/badge/OpenHub-pether-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OpenHub — pether"/></a>
 </div>
 
 <div align="center">
@@ -1333,4 +1428,6 @@ Technical endpoints and repositories powering the public site:
   <img src="https://komarev.com/ghpvc/?username=pethers&style=flat-square" alt="Profile Views"/>
 </div>
 
-![](https://hit.yhype.me/github/profile?account_id=1726836)
+<p align="center">
+  <sub>© 2024–2026 James Pether Sörling / <a href="https://hack23.com">Hack23 AB</a> · Content licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Operated under the <a href="https://github.com/Hack23/ISMS-PUBLIC">Hack23 Public ISMS</a> (<a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md">ISO 27001:2022</a> · NIS2 · GDPR · EU CRA · <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md">NIST CSF 2.0</a> · CIS Controls v8.1)</sub>
+</p>
