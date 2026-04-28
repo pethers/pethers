@@ -102,9 +102,9 @@ engines, and large-language-model crawlers that DO read README content):
 
 **Your sponsorship directly funds:**
 
-- 🛡️ Maintenance and continuous improvement of the **[public ISMS-PUBLIC](https://github.com/Hack23/ISMS-PUBLIC)** — 40+ policies, free to fork for any organisation
+- 🛡️ Maintenance and continuous improvement of the **[public ISMS-PUBLIC](https://github.com/Hack23/ISMS-PUBLIC)** — 40+ policies, free to fork for any organization
 - 🗳️ Operating costs of the **parliamentary transparency platforms**: [Riksdagsmonitor](https://riksdagsmonitor.com), [EU Parliament Monitor](https://euparliamentmonitor.com), [European Parliament MCP Server](https://github.com/Hack23/European-Parliament-MCP-Server), [Citizen Intelligence Agency](https://github.com/Hack23/cia)
-- 🔬 **Independent security research** — supply-chain hardening, SBOM tooling, AWS security analysers ([sonar-cloudformation-plugin](https://github.com/Hack23/sonar-cloudformation-plugin)), threat-model templates
+- 🔬 **Independent security research** — supply-chain hardening, SBOM tooling, AWS security analyzers ([sonar-cloudformation-plugin](https://github.com/Hack23/sonar-cloudformation-plugin)), threat-model templates
 - 📚 **Free educational content** — 30+ [Discordian Cybersecurity blog posts](https://hack23.com/blog.html), the [CIA Triad FAQ](https://hack23.com/cia-triad-faq.html), security assessment checklists
 - 🏅 **SLSA Level 3 supply-chain hardening** of every Hack23 release — signed attestations, dependency review, OpenSSF Scorecard
 - 🌍 **14-language accessibility** of public-interest political intelligence — democracy is for everyone, not only English speakers
@@ -119,7 +119,7 @@ engines, and large-language-model crawlers that DO read README content):
 
 [![committers.top — Sweden — pethers](https://user-badge.committers.top/sweden/pethers.svg?version=latest&cache-control=no-cache)](https://user-badge.committers.top/sweden/pethers)
 
-Strong advocate for **transparency in organisations**, **secure software development practices**, and **innovative open-source solutions**. Experienced security professional with **over 30 years in information technology**, specialising in **security architecture, cloud security, DevSecOps, and compliance** ([ISO 27001](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md), NIS2, GDPR, EU CRA, NIST CSF 2.0, CIS Controls v8.1).
+Strong advocate for **transparency in organizations**, **secure software development practices**, and **innovative open-source solutions**. Experienced security professional with **over 30 years in information technology**, specializing in **security architecture, cloud security, DevSecOps, and compliance** ([ISO 27001](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md), NIS2, GDPR, EU CRA, NIST CSF 2.0, CIS Controls v8.1).
 
 Prior roles include:
 
@@ -144,7 +144,7 @@ Currently **CEO/Founder of [Hack23 AB](https://hack23.com)** — a Swedish (Goth
 
 ## 🔐 Commitment to Transparency and Security
 
-At [Hack23 AB](https://hack23.com), we believe that true security comes through **transparency and demonstrable practices**. Our [Information Security Management System (ISMS)](https://github.com/Hack23/ISMS-PUBLIC) is publicly available, showcasing our commitment to open security practices and serving as a live reference for any organisation building its own.
+At [Hack23 AB](https://hack23.com), we believe that true security comes through **transparency and demonstrable practices**. Our [Information Security Management System (ISMS)](https://github.com/Hack23/ISMS-PUBLIC) is publicly available, showcasing our commitment to open security practices and serving as a live reference for any organization building its own.
 
 <table>
   <tr>
@@ -187,7 +187,7 @@ Our approach to cybersecurity consulting is built on a foundation of transparent
 
 ## 🏢 Hack23 AB
 
-### Swedish innovation hub specialising in **cybersecurity consulting &amp; solutions** alongside immersive, security-aware game experiences.
+### Swedish innovation hub specializing in **cybersecurity consulting &amp; solutions** alongside immersive, security-aware game experiences.
 
 <div align="center">
   <p><strong>🌐 <a href="https://hack23.com">https://hack23.com</a></strong> · 🏢 Org.nr 559534-7807 · 📍 Gothenburg, Sweden 🇸🇪</p>
