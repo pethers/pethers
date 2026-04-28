@@ -77,6 +77,7 @@ engines, and large-language-model crawlers that DO read README content):
 - [🏢 Hack23 AB](#-hack23-ab)
 - [🍎 Discordian Cybersecurity Insights](#-discordian-cybersecurity-insights)
 - [🚀 Open Source Projects](#-open-source-projects)
+- [🌍 The Hack23 Ecosystem](#-the-hack23-ecossystem)
 - [🔑 Security Services](#-security-services)
 - [📚 Project Documentation Index](#-cia-compliance-manager-documentation)
 - [🛡️ Security Focus Areas (CIA Triad)](#-security-focus-areas)
@@ -235,379 +236,228 @@ A curated portfolio of [Hack23 AB](https://github.com/Hack23) open-source projec
 
 ---
 
-### 🗳️ Riksdagsmonitor
+## 🌍 The Hack23 Ecosystem
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/Riksdag-Monitor-00338D?style=for-the-badge&logo=swedish&logoColor=FECC00" width="80" alt="Riksdagsmonitor"/>
-      <div>
-        <a href="https://riksdagsmonitor.com">
-          <img src="https://img.shields.io/website?url=https://riksdagsmonitor.com" alt="Website Status">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Swedish Parliament Intelligence Platform</strong> monitoring political activity in Sweden's Riksdag with systematic transparency through real-time analysis and 50+ years of historical data (1971-2024).</p>
-      <div>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/riksdagsmonitor">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/riksdagsmonitor/badge" alt="OpenSSF Scorecard">
-        </a>
-        <a href="https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml">
-          <img src="https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml/badge.svg" alt="Quality Checks">
-        </a>
-        <a href="https://github.com/Hack23/riksdagsmonitor/license">
-          <img src="https://img.shields.io/github/license/Hack23/riksdagsmonitor" alt="License">
-        </a>
-      </div>
-      <div>
-        <a href="https://riksdagsmonitor.com"><strong>🌐 Official Website</strong></a> •
-        <a href="https://github.com/Hack23/riksdagsmonitor"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/riksdagsmonitor-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/riksdagsmonitor-docs.html"><strong>📚 Documentation</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#0066CC","primaryTextColor":"#fff","primaryBorderColor":"#003366","lineColor":"#94A3B8","secondaryColor":"#003399","tertiaryColor":"#7B1FA2","background":"#0F172A"}}}%%
+graph TB
+    subgraph CONSULT["💼 Hack23 AB — Cybersecurity Consulting"]
+        SVC["🔑 Services<br/>hack23.com/services.html<br/>Architecture · Cloud · DevSecOps · Compliance"]
+        ISMS["🔓 Public ISMS<br/>github.com/Hack23/ISMS-PUBLIC<br/>38 policies · ISO 27001:2022 · NIST CSF 2.0"]
+        BLOG["🍎 Discordian Blog<br/>hack23.com/blog.html<br/>30+ posts · 8 languages"]
+    end
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/riksdagsmonitor/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/riksdagsmonitor)
-[![Quality Checks](https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml/badge.svg)](https://github.com/Hack23/riksdagsmonitor/actions/workflows/quality-checks.yml)
-[![Dependency Review](https://github.com/Hack23/riksdagsmonitor/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Hack23/riksdagsmonitor/actions/workflows/dependency-review.yml)
-[![License](https://img.shields.io/github/license/Hack23/riksdagsmonitor)](https://github.com/Hack23/riksdagsmonitor/blob/main/LICENSE)
-[![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/riksdagsmonitor)
+    subgraph SOURCES["📡 Primary Open Data"]
+        EP["🇪🇺 European Parliament<br/>data.europarl.europa.eu"]
+        RD["🇸🇪 Riksdagen<br/>data.riksdagen.se"]
+        REG["🇸🇪 Regeringskansliet<br/>regeringen.se"]
+    end
 
+    subgraph MCP["🔌 MCP Servers (AI Bridges)"]
+        EPMCP["🇪🇺 European-Parliament-MCP-Server<br/>npm: european-parliament-mcp-server<br/>62 tools · 9 resources · 7 prompts"]
+    end
 
-### 🇪🇺 EU Parliament Monitor
+    subgraph CIVIC["🏛️ Civic-Tech Platforms (Apache 2.0)"]
+        CIA["🕵️ Citizen Intelligence Agency<br/>github.com/Hack23/cia<br/>Java 26 · Spring · 110 DB views · 1971–2024"]
+        RM["🗳️ Riksdagsmonitor<br/>riksdagsmonitor.com<br/>11 agentic workflows · 14 languages"]
+        EUM["🇪🇺 EU Parliament Monitor<br/>euparliamentmonitor.com<br/>9 agentic workflows · 14 languages"]
+    end
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/EU-Parliament-003399?style=for-the-badge&logo=european-union&logoColor=FFCC00" width="80" alt="EU Parliament Monitor"/>
-      <div>
-        <a href="https://github.com/Hack23/euparliamentmonitor">
-          <img src="https://img.shields.io/github/v/release/Hack23/euparliamentmonitor" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>European Parliament Intelligence Platform</strong> — an automated multi-language news platform that monitors EU Parliament activities with 14-language support, covering plenary sessions, committee reports, propositions, and breaking news.</p>
-      <div>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/euparliamentmonitor">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/euparliamentmonitor/badge" alt="OpenSSF Scorecard">
-        </a>
-        <a href="https://github.com/Hack23/euparliamentmonitor/attestations">
-          <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
-        </a>
-        <a href="https://github.com/Hack23/euparliamentmonitor/license">
-          <img src="https://img.shields.io/github/license/Hack23/euparliamentmonitor" alt="License">
-        </a>
-      </div>
-      <div>
-        <a href="https://euparliamentmonitor.com"><strong>🌐 Official Website</strong></a> •
-        <a href="https://github.com/Hack23/euparliamentmonitor"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/euparliamentmonitor-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/euparliamentmonitor-docs.html"><strong>📚 Documentation</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+    subgraph PRODUCT["📋 Products & Platforms"]
+        CCM["📋 CIA Compliance Manager<br/>ciacompliancemanager.com<br/>npm: cia-compliance-manager<br/>React 19 · TypeScript 6"]
+        BT["🥋 Black Trigram<br/>blacktrigram.com<br/>npm: blacktrigram<br/>Three.js · React 19 · 70 vital points"]
+        GAME["🎮 Game Template<br/>github.com/Hack23/game<br/>SLSA 3 secure-by-default starter"]
+    end
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/euparliamentmonitor/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/euparliamentmonitor)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/euparliamentmonitor/attestations)
-[![News Generation](https://github.com/Hack23/euparliamentmonitor/actions/workflows/news-generation.yml/badge.svg)](https://github.com/Hack23/euparliamentmonitor/actions/workflows/news-generation.yml)
-[![Test and Report](https://github.com/Hack23/euparliamentmonitor/actions/workflows/test-and-report.yml/badge.svg)](https://github.com/Hack23/euparliamentmonitor/actions/workflows/test-and-report.yml)
-[![License](https://img.shields.io/github/license/Hack23/euparliamentmonitor)](https://github.com/Hack23/euparliamentmonitor/blob/main/LICENSE)
-[![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/euparliamentmonitor)
+    subgraph AUDIENCE["👥 Audience"]
+        USERS["Citizens · Journalists · Researchers · NGOs · Security teams · AI assistants (Claude · Cursor · Copilot · VS Code)"]
+    end
 
+    EP --> EPMCP
+    EPMCP --> EUM
+    RD --> CIA
+    REG --> CIA
+    CIA -->|"15 subsystems · nightly sync"| RM
+    EUM --> USERS
+    RM --> USERS
+    CIA --> USERS
+    CCM --> USERS
+    BT --> USERS
+    EPMCP -.->|"AI assistants"| USERS
+    SVC --> USERS
+    ISMS --> CIVIC
+    ISMS --> PRODUCT
+    BLOG --> USERS
 
-### 🔌 European Parliament MCP Server
+    style CONSULT fill:#003366,stroke:#0066CC,color:#fff
+    style ISMS fill:#0066CC,stroke:#003366,color:#fff
+    style EPMCP fill:#6366F1,stroke:#4F46E5,color:#fff
+    style CIA fill:#006B3F,stroke:#003F25,color:#fff
+    style RM fill:#00338D,stroke:#FECC00,color:#fff
+    style EUM fill:#003399,stroke:#FFCC00,color:#fff
+    style CCM fill:#0066CC,stroke:#003366,color:#fff
+    style BT fill:#000000,stroke:#FFD700,color:#FFD700
+```
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/MCP-Server-6366F1?style=for-the-badge&logo=typescript&logoColor=white" width="80" alt="European Parliament MCP Server"/>
-      <div>
-        <a href="https://www.npmjs.com/package/european-parliament-mcp-server">
-          <img src="https://img.shields.io/npm/v/european-parliament-mcp-server.svg" alt="npm version">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Model Context Protocol Server for European Parliament Open Data</strong> — providing AI assistants with structured access to MEPs, plenary sessions, committees, legislative documents, and parliamentary questions through a secure, type-safe TypeScript implementation.</p>
-      <div>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/European-Parliament-MCP-Server">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/European-Parliament-MCP-Server/badge" alt="OpenSSF Scorecard">
-        </a>
-        <a href="https://github.com/Hack23/European-Parliament-MCP-Server/attestations">
-          <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
-        </a>
-        <a href="https://github.com/Hack23/European-Parliament-MCP-Server/license">
-          <img src="https://img.shields.io/github/license/Hack23/European-Parliament-MCP-Server.svg" alt="License">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/European-Parliament-MCP-Server"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/european-parliament-mcp-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/european-parliament-mcp-docs.html"><strong>📚 Documentation</strong></a> •
-        <a href="https://www.npmjs.com/package/european-parliament-mcp-server"><strong>📦 npm</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+> **Single mission, one ISMS, one license (Apache-2.0), one set of compliance frameworks** — applied identically across consulting, civic-tech and commercial products.
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/European-Parliament-MCP-Server/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/European-Parliament-MCP-Server)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/attestations)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHack23%2FEuropean-Parliament-MCP-Server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHack23%2FEuropean-Parliament-MCP-Server?ref=badge_shield)
-[![Build Status](https://github.com/Hack23/European-Parliament-MCP-Server/actions/workflows/main.yml/badge.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/actions/workflows/main.yml)
-[![License](https://img.shields.io/github/license/Hack23/European-Parliament-MCP-Server.svg)](https://github.com/Hack23/European-Parliament-MCP-Server/blob/main/LICENSE.md)
-[![ISMS](https://img.shields.io/badge/Hack23-ISMS-blue)](https://github.com/Hack23/ISMS-PUBLIC)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/European-Parliament-MCP-Server)
+---
 
+## 🚀 Flagship Open-Source Projects
 
-### 🔍 Citizen Intelligence Agency
+Each project has its own ISMS-aligned `SECURITY_ARCHITECTURE.md`, `THREAT_MODEL.md`, OpenSSF Scorecard, OpenSSF Best Practices badge, SLSA 3 attestation and SonarCloud quality gate.
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://raw.githubusercontent.com/Hack23/cia/refs/heads/master/citizen-intelligence-agency/src/main/webapp/VAADIN/themes/cia/cia-logo.png" width="80" height="80" alt="CIA Logo"/>
-      <div>
-        <a href="https://github.com/Hack23/cia">
-          <img src="https://img.shields.io/github/v/release/Hack23/cia" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Political transparency platform</strong> monitoring Swedish political activity with data-driven insights, analytics, dashboard visualizations, and accountability metrics.</p>
-      <div>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/770">
-          <img src="https://bestpractices.coreinfrastructure.org/projects/770/badge" alt="CII Best Practices">
-        </a>
-        <a href="https://github.com/Hack23/cia/attestations">
-          <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
-        </a>
-        <a href="https://sonarcloud.io/summary/new_code?id=Hack23_cia">
-          <img src="https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=security_rating" alt="Security Rating">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/cia"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/cia-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/cia-docs.html"><strong>📚 Documentation</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+### 🗳️ Riksdagsmonitor — Swedish Political Intelligence
 
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/770/badge)](https://bestpractices.coreinfrastructure.org/projects/770)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/cia/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/cia)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/cia/attestations)
-[![Verify & Deploy](https://github.com/Hack23/cia/actions/workflows/release.yml/badge.svg?branch=master)](https://github.com/Hack23/cia/actions/workflows/release.yml)
-[![Scorecard supply-chain security](https://github.com/Hack23/cia/actions/workflows/scorecards.yml/badge.svg?branch=master)](https://github.com/Hack23/cia/actions/workflows/scorecards.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hack23_cia)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/cia)
+> AI-driven monitoring of Sweden's Riksdag, Government and public agencies — 349 current MPs, 2,494 historical politicians (1971–2024), 3.5M+ votes, 109,000+ documents, **14 languages**, every day.
 
+<p>
+  <a href="https://riksdagsmonitor.com"><img src="https://img.shields.io/badge/🌐_Live-riksdagsmonitor.com-00338D?style=flat-square&logoColor=FECC00" alt="Riksdagsmonitor live platform"/></a>
+  <a href="https://github.com/Hack23/riksdagsmonitor"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Friksdagsmonitor-181717?style=flat-square&logo=github&logoColor=white" alt="Riksdagsmonitor source on GitHub"/></a>
+  <a href="https://www.npmjs.com/package/riksdagsmonitor"><img src="https://img.shields.io/npm/v/riksdagsmonitor.svg?style=flat-square&logo=npm&label=npm" alt="riksdagsmonitor npm package"/></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/riksdagsmonitor"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/riksdagsmonitor/badge?style=flat-square" alt="OpenSSF Scorecard for Riksdagsmonitor"/></a>
+  <a href="https://www.bestpractices.dev/projects/12069"><img src="https://www.bestpractices.dev/projects/12069/badge" alt="OpenSSF Best Practices badge for Riksdagsmonitor"/></a>
+  <a href="https://deepwiki.com/Hack23/riksdagsmonitor"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about Riksdagsmonitor"/></a>
+  <a href="https://github.com/Hack23/riksdagsmonitor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Hack23/riksdagsmonitor?style=flat-square" alt="Riksdagsmonitor license"/></a>
+</p>
 
-### 🔥 Black Trigram (흑괘)
+🔗 **Surfaces:** [Live](https://riksdagsmonitor.com) · [Political Intelligence Hub](https://riksdagsmonitor.com/political-intelligence.html) · [AI Newsroom](https://riksdagsmonitor.com/news/index.html) · [Dashboard](https://riksdagsmonitor.com/dashboard/index.html) · [Sitemap](https://riksdagsmonitor.com/sitemap.html) · [Features](https://hack23.com/riksdagsmonitor-features.html) · [Docs](https://hack23.com/riksdagsmonitor-docs.html)
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://blacktrigram.com/black-trigram-256.png" width="80" height="80" alt="Black Trigram Logo"/>
-      <div>
-        <a href="https://github.com/Hack23/blacktrigram">
-          <img src="https://img.shields.io/github/v/release/Hack23/blacktrigram" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Realistic 2D precision combat simulator</strong> inspired by traditional Korean martial arts, focusing on precise anatomical targeting, authentic combat techniques, and detailed physics-based interactions.</p>
-      <div>
-        <a href="https://github.com/Hack23/blacktrigram/raw/master/LICENSE.md">
-          <img src="https://img.shields.io/github/license/Hack23/blacktrigram.svg" alt="License">
-        </a>
-        <a href="https://blacktrigram.com">
-          <img src="https://img.shields.io/website?url=https://blacktrigram.com" alt="Website Status">
-        </a>
-      </div>
-      <div>
-        <a href="https://blacktrigram.com"><strong>🌐 Official Website</strong></a> •
-        <a href="https://github.com/Hack23/blacktrigram"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/black-trigram-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/black-trigram-docs.html"><strong>📚 Documentation</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+### 🇪🇺 EU Parliament Monitor — European Political Intelligence
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/blacktrigram/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/blacktrigram)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/10777/badge)](https://bestpractices.coreinfrastructure.org/projects/10777)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/blacktrigram/attestations)
-[![Scorecard supply-chain security](https://github.com/Hack23/blacktrigram/actions/workflows/scorecards.yml/badge.svg?branch=main)](https://github.com/Hack23/blacktrigram/actions/workflows/scorecards.yml)
-[![Test & Report](https://github.com/Hack23/blacktrigram/actions/workflows/test-and-report.yml/badge.svg?branch=main)](https://github.com/Hack23/blacktrigram/actions/workflows/test-and-report.yml)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_blacktrigram&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_blacktrigram)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHack23%2Fblacktrigram.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHack23%2Fblacktrigram?ref=badge_shield)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/blacktrigram)
+> Brussels and Strasbourg made readable. AI-newsroom over the European Parliament's open data — 8 unified gh-aw workflows, 51 analytical artifacts per run, **14 languages**, 1,700+ daily artifacts, full Admiralty / WEP / SAT / ACH tradecraft.
+
+<p>
+  <a href="https://euparliamentmonitor.com"><img src="https://img.shields.io/badge/🌐_Live-euparliamentmonitor.com-003399?style=flat-square&logoColor=FFCC00" alt="EU Parliament Monitor live platform"/></a>
+  <a href="https://github.com/Hack23/euparliamentmonitor"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Feuparliamentmonitor-181717?style=flat-square&logo=github&logoColor=white" alt="EU Parliament Monitor source on GitHub"/></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/euparliamentmonitor"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/euparliamentmonitor/badge?style=flat-square" alt="OpenSSF Scorecard for EU Parliament Monitor"/></a>
+  <a href="https://www.bestpractices.dev/projects/12068"><img src="https://www.bestpractices.dev/projects/12068/badge" alt="OpenSSF Best Practices badge for EU Parliament Monitor"/></a>
+  <a href="https://github.com/Hack23/euparliamentmonitor/attestations"><img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA Level 3 attestations for EU Parliament Monitor"/></a>
+  <a href="https://deepwiki.com/Hack23/euparliamentmonitor"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about EU Parliament Monitor"/></a>
+  <a href="https://github.com/Hack23/euparliamentmonitor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Hack23/euparliamentmonitor?style=flat-square" alt="EU Parliament Monitor license"/></a>
+</p>
+
+🔗 **Surfaces:** [Live](https://euparliamentmonitor.com) · [Political Intelligence Hub](https://euparliamentmonitor.com/political-intelligence.html) · [Sitemap](https://euparliamentmonitor.com/sitemap.html) · [API Docs](https://euparliamentmonitor.com/docs/api/) · [Features](https://hack23.com/euparliamentmonitor-features.html) · [Docs](https://hack23.com/euparliamentmonitor-docs.html)
+
+### 🔌 European Parliament MCP Server — AI Data Backbone
+
+> Canonical TypeScript Model Context Protocol server bridging the **European Parliament Open Data Portal v2** to any MCP-aware AI client (Claude Desktop, VS Code, Cursor, GitHub Copilot). 62 tools, 9 resources, 7 prompts, full GDPR-by-design.
+
+<p>
+  <a href="https://github.com/Hack23/European-Parliament-MCP-Server"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2FEuropean--Parliament--MCP--Server-181717?style=flat-square&logo=github&logoColor=white" alt="European Parliament MCP Server source on GitHub"/></a>
+  <a href="https://www.npmjs.com/package/european-parliament-mcp-server"><img src="https://img.shields.io/npm/v/european-parliament-mcp-server.svg?style=flat-square&logo=npm&label=npm" alt="european-parliament-mcp-server npm package"/></a>
+  <a href="https://www.npmjs.com/package/european-parliament-mcp-server"><img src="https://img.shields.io/npm/dm/european-parliament-mcp-server.svg?style=flat-square&logo=npm&label=downloads" alt="european-parliament-mcp-server npm monthly downloads"/></a>
+  <a href="https://www.bestpractices.dev/projects/12067"><img src="https://www.bestpractices.dev/projects/12067/badge" alt="OpenSSF Best Practices badge for European Parliament MCP Server"/></a>
+  <a href="https://deepwiki.com/Hack23/European-Parliament-MCP-Server"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about European Parliament MCP Server"/></a>
+  <a href="https://hack23.github.io/European-Parliament-MCP-Server/"><img src="https://img.shields.io/badge/📚_Docs_Portal-TypeDoc-blue?style=flat-square&logo=typescript" alt="European Parliament MCP Server documentation portal"/></a>
+</p>
+
+🔗 **Surfaces:** [Repository](https://github.com/Hack23/European-Parliament-MCP-Server) · [npm](https://www.npmjs.com/package/european-parliament-mcp-server) · [API Docs](https://hack23.github.io/European-Parliament-MCP-Server/api/) · [Features](https://hack23.com/european-parliament-mcp-features.html) · [Docs](https://hack23.com/european-parliament-mcp-docs.html)
+
+### 🕵️ Citizen Intelligence Agency (CIA) — Sweden's Data Backbone
+
+> Java/Spring/Vaadin OSINT platform monitoring Sweden's Riksdag, Government and Myndigheter since 2008. **110 database views, 50 risk-detection rules, 1971–2024 longitudinal coverage, 3.5M+ votes, 109K+ documents.** The data backbone behind Riksdagsmonitor.
+
+<p>
+  <a href="https://github.com/Hack23/cia"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Fcia-181717?style=flat-square&logo=github&logoColor=white" alt="Citizen Intelligence Agency source on GitHub"/></a>
+  <a href="https://hack23.github.io/cia/"><img src="https://img.shields.io/badge/🌐_Maven_Site-hack23.github.io%2Fcia-006B3F?style=flat-square" alt="Citizen Intelligence Agency Maven site"/></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/cia"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/cia/badge?style=flat-square" alt="OpenSSF Scorecard for Citizen Intelligence Agency"/></a>
+  <a href="https://bestpractices.coreinfrastructure.org/projects/770"><img src="https://bestpractices.coreinfrastructure.org/projects/770/badge" alt="CII Best Practices badge for Citizen Intelligence Agency"/></a>
+  <a href="https://github.com/Hack23/cia/attestations"><img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA Level 3 attestations for Citizen Intelligence Agency"/></a>
+  <a href="https://sonarcloud.io/summary/new_code?id=Hack23_cia"><img src="https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia&metric=alert_status" alt="SonarCloud quality gate for Citizen Intelligence Agency"/></a>
+  <a href="https://deepwiki.com/Hack23/cia"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about Citizen Intelligence Agency"/></a>
+  <a href="https://github.com/Hack23/cia/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/Hack23/cia?style=flat-square" alt="Citizen Intelligence Agency license"/></a>
+</p>
+
+🔗 **Surfaces:** [Repository](https://github.com/Hack23/cia) · [Architecture](https://github.com/Hack23/cia/blob/master/ARCHITECTURE.md) · [Security Architecture](https://github.com/Hack23/cia/blob/master/SECURITY_ARCHITECTURE.md) · [Threat Model](https://github.com/Hack23/cia/blob/master/THREAT_MODEL.md) · [Features](https://hack23.com/cia-features.html) · [Docs](https://hack23.com/cia-docs.html)
+
+### 📋 CIA Compliance Manager — Browser-Based GRC
+
+> React 19 / TypeScript 6 platform for **CIA-triad assessment, multi-framework compliance, threat modeling and business-impact quantification**. Available as a live web app and a tree-shakeable npm library with 10 subpath exports.
+
+<p>
+  <a href="https://ciacompliancemanager.com"><img src="https://img.shields.io/badge/🌐_Live-ciacompliancemanager.com-0066CC?style=flat-square" alt="CIA Compliance Manager live application"/></a>
+  <a href="https://github.com/Hack23/cia-compliance-manager"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Fcia--compliance--manager-181717?style=flat-square&logo=github&logoColor=white" alt="CIA Compliance Manager source on GitHub"/></a>
+  <a href="https://www.npmjs.com/package/cia-compliance-manager"><img src="https://img.shields.io/npm/v/cia-compliance-manager.svg?style=flat-square&logo=npm&label=npm" alt="cia-compliance-manager npm package"/></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/cia-compliance-manager"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/cia-compliance-manager/badge?style=flat-square" alt="OpenSSF Scorecard for CIA Compliance Manager"/></a>
+  <a href="https://www.bestpractices.dev/projects/10365"><img src="https://www.bestpractices.dev/projects/10365/badge" alt="OpenSSF Best Practices badge for CIA Compliance Manager"/></a>
+  <a href="https://github.com/Hack23/cia-compliance-manager/attestations"><img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA Level 3 attestations for CIA Compliance Manager"/></a>
+  <a href="https://deepwiki.com/Hack23/cia-compliance-manager"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about CIA Compliance Manager"/></a>
+</p>
+
+🔗 **Surfaces:** [Live App](https://ciacompliancemanager.com) · [npm](https://www.npmjs.com/package/cia-compliance-manager) · [API Docs](https://ciacompliancemanager.com/docs/api/) · [Features](https://hack23.com/cia-compliance-manager-features.html) · [Docs](https://hack23.com/cia-compliance-manager-docs.html)
+
+### 🥋 Black Trigram (흑괘) — Korean Martial-Arts Combat Simulator
+
+> Production-ready 3D precision combat simulator. **Eight I Ching trigram stances · 70 vital points · 51 authentic Korean martial-arts techniques · 5 fighter archetypes · 60fps desktop / 55fps+ mobile**. React 19 · Three.js · TypeScript 6 · Vite 8.
+
+<p>
+  <a href="https://blacktrigram.com"><img src="https://img.shields.io/badge/🎮_Play-blacktrigram.com-FFD700?style=flat-square&labelColor=000000" alt="Play Black Trigram live"/></a>
+  <a href="https://github.com/Hack23/blacktrigram"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Fblacktrigram-181717?style=flat-square&logo=github&logoColor=white" alt="Black Trigram source on GitHub"/></a>
+  <a href="https://www.npmjs.com/package/blacktrigram"><img src="https://img.shields.io/npm/v/blacktrigram.svg?style=flat-square&logo=npm&label=npm" alt="blacktrigram npm package"/></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/blacktrigram"><img src="https://api.securityscorecards.dev/projects/github.com/Hack23/blacktrigram/badge?style=flat-square" alt="OpenSSF Scorecard for Black Trigram"/></a>
+  <a href="https://www.bestpractices.dev/projects/10777"><img src="https://www.bestpractices.dev/projects/10777/badge" alt="OpenSSF Best Practices badge for Black Trigram"/></a>
+  <a href="https://github.com/Hack23/blacktrigram/attestations"><img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA Level 3 attestations for Black Trigram"/></a>
+  <a href="https://deepwiki.com/Hack23/blacktrigram"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki about Black Trigram"/></a>
+</p>
+
+🔗 **Surfaces:** [Play](https://blacktrigram.com) · [API Docs](https://hack23.github.io/blacktrigram/) · [Security Architecture](https://github.com/Hack23/blacktrigram/blob/main/SECURITY_ARCHITECTURE.md) · [Threat Model](https://github.com/Hack23/blacktrigram/blob/main/THREAT_MODEL.md) · [Features](https://hack23.com/black-trigram-features.html) · [Docs](https://hack23.com/black-trigram-docs.html)
+
+### 🎮 Game Template — Secure-by-Default Game Starter
+
+> Reference implementation of a secure web-game project: **React + TypeScript + Three.js + Vite**, SLSA 3, full SBOM, automated security testing, ISMS-policy mapping ready to fork.
+
+<p>
+  <a href="https://github.com/Hack23/game"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Fgame-181717?style=flat-square&logo=github&logoColor=white" alt="Hack23 secure game template"/></a>
+  <a href="https://github.com/Hack23/game/blob/master/docs/ISMS_POLICY_MAPPING.md"><img src="https://img.shields.io/badge/📋_ISMS-Policy_Mapping-0066CC?style=flat-square" alt="Game template ISMS policy mapping"/></a>
+</p>
 
 
-### 🔐 CIA Compliance Manager
+### ☁️ Lambda in Private VPC — AWS Reference Architecture
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://hack23.com/icon-192.png" width="80" height="80" alt="CIA Compliance Manager Logo"/>
-      <div>
-        <a href="https://github.com/Hack23/cia-compliance-manager">
-          <img src="https://img.shields.io/github/v/release/Hack23/cia-compliance-manager" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Security assessment platform for the CIA triad (Confidentiality, Integrity, Availability)</strong> with business impact analysis and compliance mapping to regulatory frameworks like NIST, ISO, GDPR, HIPAA, and SOC2.</p>
-      <div>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/10365">
-          <img src="https://bestpractices.coreinfrastructure.org/projects/10365/badge" alt="CII Best Practices">
-        </a>
-        <a href="https://github.com/Hack23/cia-compliance-manager/attestations">
-          <img src="https://slsa.dev/images/gh-badge-level3.svg" alt="SLSA 3">
-        </a>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/cia-compliance-manager">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/cia-compliance-manager/badge" alt="OpenSSF Scorecard">
-        </a>
-      </div>
-      <div>
-        <a href="https://ciacompliancemanager.com/"><strong>🚀 Live Demo</strong></a> •
-        <a href="https://github.com/Hack23/cia-compliance-manager"><strong>📂 Repository</strong></a> •
-        <a href="https://hack23.com/cia-compliance-manager-features.html"><strong>✨ Features</strong></a> •
-        <a href="https://hack23.com/cia-compliance-manager-docs.html"><strong>📚 Documentation</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+> Battle-tested reference implementation: **AWS Lambda in a private VPC with VPC endpoints, CloudFront, WAF, KMS encryption, CloudTrail and Security Hub** integration.
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHack23%2Fcia-compliance-manager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHack23%2Fcia-compliance-manager?ref=badge_shield)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/10365/badge)](https://bestpractices.coreinfrastructure.org/projects/10365)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/cia-compliance-manager/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/cia-compliance-manager)
-[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://github.com/Hack23/cia-compliance-manager/attestations)
-[![Verify & Release](https://github.com/Hack23/cia-compliance-manager/actions/workflows/release.yml/badge.svg)](https://github.com/Hack23/cia-compliance-manager/actions/workflows/release.yml)
-[![Scorecard Supply-Chain Security](https://github.com/Hack23/cia-compliance-manager/actions/workflows/scorecards.yml/badge.svg?branch=main)](https://github.com/Hack23/cia-compliance-manager/actions/workflows/scorecards.yml)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Hack23_cia-compliance-manager&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Hack23_cia-compliance-manager)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/cia-compliance-manager)
+<p>
+  <a href="https://github.com/Hack23/aws-lambda-private-vpc"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Faws--lambda--private--vpc-181717?style=flat-square&logo=github&logoColor=white" alt="AWS Lambda in private VPC reference architecture"/></a>
+  <a href="https://hack23.com/blog.html"><img src="https://img.shields.io/badge/📝_Tutorial-hack23.com%2Fblog-FF5722?style=flat-square" alt="Tutorial on hack23.com blog"/></a>
+</p>
 
-### 🎮 Game Template
+### 🧪 Sonar-CloudFormation-Plugin — Infrastructure-as-Code Static Analysis
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/React-Three.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="80" alt="Game Template"/>
-      <div>
-        <a href="https://github.com/Hack23/game">
-          <img src="https://img.shields.io/github/v/release/Hack23/game" alt="Release">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Secure game development template</strong> with React, TypeScript, Three.js, and Vite - built with security-first principles, comprehensive SBOM generation, and automated security testing aligned with Hack23 AB's ISMS.</p>
-      <div>
-        <a href="https://github.com/Hack23/game/raw/master/LICENSE.md">
-          <img src="https://img.shields.io/github/license/Hack23/game.svg" alt="License">
-        </a>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/game">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/game/badge" alt="OpenSSF Scorecard">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/game"><strong>📂 Repository</strong></a> •
-        <a href="https://github.com/Hack23/game#-security-features"><strong>🔒 Security Features</strong></a> •
-        <a href="https://github.com/Hack23/game/blob/master/docs/ISMS_POLICY_MAPPING.md"><strong>📋 ISMS Policy Mapping</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+> Open-source SonarQube plugin that brings **CloudFormation IaC scanning** into existing SonarQube/SonarCloud quality gates.
 
-[![License](https://img.shields.io/github/license/Hack23/game.svg)](https://github.com/Hack23/game/raw/master/LICENSE.md)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/game/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/game)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hack23/game)
+<p>
+  <a href="https://github.com/Hack23/sonar-cloudformation-plugin"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2Fsonar--cloudformation--plugin-181717?style=flat-square&logo=github&logoColor=white" alt="Sonar CloudFormation plugin source on GitHub"/></a>
+  <a href="https://sonarcloud.io/organizations/hack23/projects"><img src="https://img.shields.io/badge/SonarCloud-Hack23-F3702A?style=flat-square&logo=sonarcloud&logoColor=white" alt="Hack23 SonarCloud organisation"/></a>
+</p>
 
+---
 
-### ☁️ Lambda in Private VPC
+## 🛡️ Public ISMS — `Hack23/ISMS-PUBLIC`
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="80" alt="AWS Lambda"/>
-      <div>
-        <a href="https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/main.yml">
-          <img src="https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/main.yml/badge.svg" alt="CI/CD">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>Enterprise-grade multi-region active/active architecture</strong> with near-zero recovery time, comprehensive DNS failover, and AWS Resilience Hub policy compliance for mission-critical applications.</p>
-      <div>
-        <a href="https://scorecard.dev/viewer/?uri=github.com/Hack23/lambda-in-private-vpc">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/lambda-in-private-vpc/badge" alt="OpenSSF Scorecard">
-        </a>
-        <a href="https://github.com/Hack23/lambda-in-private-vpc/license">
-          <img src="https://img.shields.io/github/license/Hack23/lambda-in-private-vpc.svg" alt="License">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/lambda-in-private-vpc"><strong>📂 Repository</strong></a> •
-        <a href="https://github.com/Hack23/lambda-in-private-vpc#-architecture-design"><strong>🏗️ Architecture</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+> **A fully public, version-controlled, machine-verifiable Information Security Management System.** 38 policies covering access control, cryptography, secure development, threat modeling, vulnerability management, AI governance, GDPR privacy, EU CRA, ISO 27001:2022, NIST CSF 2.0, CIS Controls v8.1.
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/lambda-in-private-vpc/badge)](https://scorecard.dev/viewer/?uri=github.com/Hack23/lambda-in-private-vpc)
-[![Verify and Deploy](https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/main.yml/badge.svg)](https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/main.yml)
-[![Scorecard Supply-Chain Security](https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/scorecard.yml/badge.svg?branch=main)](https://github.com/Hack23/lambda-in-private-vpc/actions/workflows/scorecard.yml)
+<p>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC"><img src="https://img.shields.io/badge/📦_Repo-Hack23%2FISMS--PUBLIC-0066CC?style=for-the-badge&logo=github&logoColor=white" alt="Hack23 public ISMS repository"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Information_Security_Policy.md"><img src="https://img.shields.io/badge/🔐_Information_Security-Policy-0066CC?style=for-the-badge" alt="Information Security Policy"/></a>
+  <a href="https://github.com/Hack23/ISMS-PUBLIC/blob/main/Compliance_Checklist.md"><img src="https://img.shields.io/badge/✅_Compliance-Checklist-2E7D32?style=for-the-badge" alt="ISMS compliance checklist"/></a>
+</p>
 
+| Domain | Key Policies |
+|:-------|:-------------|
+| 🛠️ **Secure Development** | [Secure Development Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Secure_Development_Policy.md) · [Threat Modeling](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Threat_Modeling.md) · [Vulnerability Management](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Vulnerability_Management.md) · [Change Management](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Change_Management.md) |
+| 🔑 **Access &amp; Identity** | [Access Control Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Access_Control_Policy.md) · [Segregation of Duties](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Segregation_of_Duties_Policy.md) · [Mobile Device Management](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Mobile_Device_Management_Policy.md) |
+| 🌐 **Network &amp; Crypto** | [Network Security Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Network_Security_Policy.md) · [Cryptography Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Cryptography_Policy.md) |
+| 💾 **Continuity** | [Backup &amp; Recovery](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Backup_Recovery_Policy.md) · [Business Continuity Plan](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Business_Continuity_Plan.md) · [Disaster Recovery Plan](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Disaster_Recovery_Plan.md) |
+| 🚨 **Incident** | [Incident Response Plan](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Incident_Response_Plan.md) |
+| 🤖 **AI &amp; LLM** | [AI Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/AI_Policy.md) · [OWASP LLM Security Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/OWASP_LLM_Security_Policy.md) |
+| 📊 **Risk &amp; Compliance** | [Risk Register](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Risk_Register.md) · [Risk Assessment Methodology](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Risk_Assessment_Methodology.md) · [Compliance Checklist](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Compliance_Checklist.md) · [Security Metrics](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Security_Metrics.md) · [ISMS Metrics Dashboard](https://github.com/Hack23/ISMS-PUBLIC/blob/main/ISMS_METRICS_DASHBOARD.md) |
+| 🇪🇺 **Regulatory** | [Privacy Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Privacy_Policy.md) (GDPR) · [CRA Conformity Assessment Process](https://github.com/Hack23/ISMS-PUBLIC/blob/main/CRA_Conformity_Assessment_Process.md) (EU CRA) · [ISO 5230 Self-Certification](https://github.com/Hack23/ISMS-PUBLIC/blob/main/ISO_5230_Self_Certification.md) |
+| 🌟 **Transparency** | [ISMS Transparency Plan](https://github.com/Hack23/ISMS-PUBLIC/blob/main/ISMS_Transparency_Plan.md) · [Open Source Policy](https://github.com/Hack23/ISMS-PUBLIC/blob/main/Open_Source_Policy.md) · [STYLE_GUIDE](https://github.com/Hack23/ISMS-PUBLIC/blob/main/STYLE_GUIDE.md) |
 
-### 🧪 Sonar-CloudFormation-Plugin
+> 🌟 **Why public?** Because security claims must be auditable. Every customer, regulator, journalist or curious citizen can read, fork, critique or reuse our ISMS — and can independently verify that what we ship matches what we say.
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="https://img.shields.io/badge/SonarQube-Plugin-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" width="80" alt="SonarQube Plugin"/>
-      <div>
-        <a href="http://mvnrepository.com/artifact/com.hack23.sonar/sonar-cloudformation-plugin">
-          <img src="https://img.shields.io/maven-central/v/com.hack23.sonar/sonar-cloudformation-plugin.svg" alt="Maven Central">
-        </a>
-      </div>
-    </td>
-    <td>
-      <p><strong>SonarQube plugin for analyzing AWS CloudFormation templates</strong> with security best practices based on NIST, CWE, and ISO standards.</p>
-      <div>
-        <a href="https://bestpractices.coreinfrastructure.org/projects/4545">
-          <img src="https://bestpractices.coreinfrastructure.org/projects/4545/badge" alt="CII Best Practices">
-        </a>
-        <a href="https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin">
-          <img src="https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin/badge" alt="OpenSSF Scorecard">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Hack23/sonar-cloudformation-plugin"><strong>📂 Repository</strong></a> •
-        <a href="http://mvnrepository.com/artifact/com.hack23.sonar/sonar-cloudformation-plugin"><strong>📦 Maven Central</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-[![License](https://img.shields.io/github/license/Hack23/sonar-cloudformation-plugin.svg)](https://github.com/Hack23/sonar-cloudformation-plugin/raw/master/LICENSE.txt)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4545/badge)](https://bestpractices.coreinfrastructure.org/projects/4545)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin/badge)](https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin)
+---
 
 
 
